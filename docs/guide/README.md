@@ -1,4 +1,2 @@
----
-home: false
----
+# Guide
 What's going on here?
