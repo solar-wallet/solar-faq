@@ -1,16 +1,28 @@
 ---
-title: Installation
+title: What is solar wallet?
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+What is solar wallet?
 
+Solar wallet is a Stellar wallet for desktop devices. It is created by SatoshiPay with the explicit goal of making a business-friendly wallet which emphasizes speed, a smooth user experience (UX), and security. 
 
+Key Features
 
-# Windows
+* Fast and user-friendly
+* Enterprise-grade security 
+* 100% free
+* Asset management
+* Multi-signature accounts
+* Multiple accounts
+* encrypted key storage
+* Simple account setup
+* Open source for full transparency
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla 
+Solar roadmap
 
+* Mobile versions for Android and iOS
+* Support for decentralised exchanges (DEX)
+* Contact management
+* Two-factor authentication
+* Cold storage hardware support (Ledger, Trezor etc.)
 
-
-## macOS
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+Supports: Windows, Mac, Linux
