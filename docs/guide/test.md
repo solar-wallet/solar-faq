@@ -1,4 +1,27 @@
 ---
-title: My First Netlify Post
+title: How can I create a wallet?
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+1. Run Solar wallet
+
+2. Choose "add new"
+
+![](/docs/.vuepress/dist/add-new.png)
+
+3. Click on the field near the "pen" logo and type in the name you want for your wallet. 
+
+![](/docs/.vuepress/dist/rename-it-.png)
+
+Create a password and repeat it in the blanks. Click "Create Account" to confirm it (optional, but highly recommended! )\
+P.S. We cannot recover your password! So please make sure you can remember it.
+
+![](/docs/.vuepress/dist/create-account.png)
+
+
+
+Your wallet is now ready for receiving payments! Click "RECEIVE" to find the payout address/public key of your wallet. 
+
+![](/docs/.vuepress/dist/receive.png)
+
+Click the long code underneath the QR code to copy the payout address/public key of your wallet. 
+
+![](/docs/.vuepress/dist/tap-to-copy.png)
