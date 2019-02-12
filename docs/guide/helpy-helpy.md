@@ -1,17 +1,16 @@
 ---
-title: Helpy helpy
+title: Where can I find my payout address/public key?
 ---
-asdfasdfasdf
+1. Run Solar wallet
 
-asdfasdfasdf
+2. Select the relevant wallet
 
-asdfasdfasdf
+![](/docs/.vuepress/dist/choose-an-account.png)
 
-## Hello 
+3. Click “RECEIVE”
 
-asdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdf
+![](/docs/.vuepress/dist/receive.png)
 
+4. Your payout address/public key is written under the QR code. Click it to copy it. 
 
-### Third
-
-asdfasdfasdf
+![](/docs/.vuepress/dist/tap-to-copy.png)
