@@ -20,6 +20,4 @@ title: Where can I find my secret key?
 
 6. Your password will then be revealed
 
-![](/docs/.vuepress/dist/secret-key.png)
-
-6.
+![null](/docs/.vuepress/dist/secret-key.png)
