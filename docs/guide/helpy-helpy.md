@@ -7,9 +7,13 @@ title: Where can I find my payout address/public key?
 
 ![](/docs/.vuepress/dist/choose-an-account.png)
 
+
+
 3. Click “RECEIVE”
 
 ![](/docs/.vuepress/dist/receive.png)
+
+
 
 4. Your payout address/public key is written under the QR code. Click it to copy it. 
 
