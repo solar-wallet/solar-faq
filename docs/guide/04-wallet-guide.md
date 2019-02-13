@@ -40,13 +40,6 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 
 ![null](/images/tap-to-copy.png)
 
-
-## Activate a Stellar Account
-
-In order to activate your wallet for transactions, it is necessary to send at least 1 XLM to the wallet. 
-
-If you are a registered SatoshiPay publisher, you can simply put in the public key of your empty wallet as your payout address. Our system will automatically activate your wallet by sending you 1 XLM.
-
 ## Export Secret Key
 
 1. Choose the relevant wallet
@@ -59,4 +52,3 @@ If you are a registered SatoshiPay publisher, you can simply put in the public k
    ![null](/images/password-secret-.png)
 5. Your secret key is revealed in plaintext. **Please keep this text safe as this unencrypted secret key gives anybody access to your funds.**\
    ![null](/images/secret-key.png)
-

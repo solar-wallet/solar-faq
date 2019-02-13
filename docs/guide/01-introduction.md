@@ -19,6 +19,8 @@ Solar wallet is a Stellar wallet for desktop devices. It is created by SatoshiPa
 
 **Supports: Windows, Mac, Linux**
 
-## Why Free?
+## Why is it Free?
 
 At SatoshiPay we needed an easy-to-use Stellar wallet for all major platforms that offered enterprise-grade security features. So we built it. The wallet is 100% free (and the core product will remain so), but in future we might add enterprise features, which will come at a cost.
+
+## Privacy and Security
