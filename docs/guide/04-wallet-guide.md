@@ -1,5 +1,5 @@
 ---
-title: Functions of your wallet
+title: How to use
 ---
 ## Create Stellar Account
 
