@@ -25,18 +25,35 @@ title: How to use
 
 ![null](/images/tap-to-copy.png)
 
+## Send Payment
+
+1. Choose the relevant wallet
+
+2. Click the send button
+
+3. Fill in the destination address and the amount of the assets which you would like to send
+
+4. If necessary, you could also include a text or an ID for your transaction by choosing “Text” or “ID” respectively and then fill in the relevant information. 
+
+5. Click “send”
+
+6. Fill in your password and click “confirm” to proceed with your payment. If you don’t have a password, simply click “confirm” to make the payment. 
+
+7. Your payment should be carried out instantly.
+
+
+
 ## Receive Payment
 
-1. Run Solar wallet
-2. Select the relevant wallet
+1. Select the relevant wallet
 
-![null](/images/choose-an-account.png)
+![](/images/receive.png)
 
-3. Click “RECEIVE”
+   2. Click “RECEIVE”
 
 ![null](/images/receive.png)
 
-4. Your payout address/public key is written under the QR code. Click it to copy it. 
+  3. Your payout address/public key is written under the QR code. Click it to copy it. 
 
 ![null](/images/tap-to-copy.png)
 
