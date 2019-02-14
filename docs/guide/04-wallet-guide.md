@@ -1,10 +1,10 @@
 ---
 title: How to use
 ---
-## Create Stellar Account
+# Create Stellar Account
 
-1. Run Solar wallet
-2. Choose "add new"
+1. ## Run Solar wallet
+2. ## Choose "add new"
 
 ![null](/images/add-new.png)
 
