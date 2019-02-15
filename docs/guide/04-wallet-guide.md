@@ -146,17 +146,17 @@ title: How to use
 
 ## Enable Testnet features
 
-### Run Solar wallet, choose the "setting" icon on the top right corner of the window.
+#### Run Solar wallet, choose the "setting" icon on the top right corner of the window.
 
-### Click the "switch" next to "Show Testnet Accounts" to activate the testnet option.
+#### Click the "switch" next to "Show Testnet Accounts" to activate the testnet option.
 
-### Click the arrow next to "Settings" to go back to the main page. 
+#### Click the arrow next to "Settings" to go back to the main page. 
 
-### Now when you're back on the main page, the button "SWITCH TO TESTNET" would appear next to the setting button. Click "SWITCH TO TESTNET" to go to TESTNET
+#### Now when you're back on the main page, the button "SWITCH TO TESTNET" would appear next to the setting button. Click "SWITCH TO TESTNET" to go to TESTNET
 
-### Click "Add new" to create the wallet. Follow the normal procedure to create a new wallet/import an existing wallet.
+#### Click "Add new" to create the wallet. Follow the normal procedure to create a new wallet/import an existing wallet.
 
-### To go back to mainnet or to leave testnet, click the "SWITCH TO MAINNET" button next to the setting button.
+#### To go back to mainnet or to leave testnet, click the "SWITCH TO MAINNET" button next to the setting button.
 
 
 
