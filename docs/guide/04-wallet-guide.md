@@ -29,11 +29,9 @@ title: How to use
 
 #### Click the send button.
 
-#### Fill in the destination address and the amount of the assets which you would like to send.
+#### Fill in the destination address and the amount of the assets which you would like to send. If necessary, you could also include a text or an ID for your transaction by choosing “Text” or “ID” respectively and then fill in the relevant information. Click “send” to confirm it. 
 
-#### If necessary, you could also include a text or an ID for your transaction by choosing “Text” or “ID” respectively and then fill in the relevant information.
-
-#### Click “send”.
+![](/images/screen-shot-2019-02-15-at-17.54.08.png)
 
 #### Fill in your password and click “confirm” to proceed with your payment. If you don’t have a password, simply click “confirm” to make the payment.
 
@@ -50,6 +48,8 @@ title: How to use
 #### Your payout address/public key is written under the QR code. Click it to copy it. Send this public key to the entity/person you would like to receive your payment from.
 
 ![null](/images/tap-to-copy.png)
+
+
 
 ## Export Secret Key
 
@@ -77,15 +77,9 @@ title: How to use
 
 #### Click “Add new”.
 
-#### Name your wallet by typing in the field near the “pen icon”.
+#### Name your wallet by typing in the field near the “pen icon”. Create a password and repeat it in the blanks.  (optional, but highly recommended!). Click the switch button near “Import Existing” and type in your secret key in the blank below. Click "IMPORT Account" to confirm it
 
-#### Create a password and repeat it in the blanks. Click "Create Account" to confirm it (optional, but highly recommended!).
-
-#### Click the button near “Import Existing”.
-
-#### Type in your secret key in the blank below.
-
-#### Click “IMPORT ACCOUNT”.
+![](/images/screen-shot-2019-02-15-at-17.51.06.png)
 
 
 
