@@ -3,7 +3,6 @@ title: How to use
 ---
 ## Create Stellar Account
 
-### Run Solar wallet
 ### Choose "add new"
 
 ![null](/images/add-new.png)
