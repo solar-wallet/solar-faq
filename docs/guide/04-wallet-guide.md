@@ -11,7 +11,7 @@ title: How to use
 
 ![null](/images/rename-it-.png)
 
-### Create a password and repeat it in the blanks. Click "Create Account" to confirm it (optional, but highly recommended! )\
+### Create a password and repeat it in the blanks. Click "Create Account" to confirm it (optional, but highly recommended! )
    P.S. We cannot recover your password! So please make sure you can remember it.
 
 ![null](/images/create-account.png)
