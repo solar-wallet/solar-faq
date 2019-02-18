@@ -5,7 +5,7 @@ title: How to use
 
 #### Choose "add new".
 
-![null](/images/add-new.png)
+![](/images/screen-shot-2019-02-18-at-12.32.48.png)
 
 #### Click on the field near the "pen" icon and type in the name you want for your wallet. Create a password and repeat it in the blanks. (optional, but highly recommended!) Click "Create Account" to confirm it.
 
@@ -47,7 +47,7 @@ title: How to use
 
 #### Your payout address/public key is written under the QR code. Click it to copy it. Send this public key to the entity/person you would like to receive your payment from.
 
-![null](/images/tap-to-copy.png)
+![](/images/receive.png)
 
 ## Export Secret Key
 
