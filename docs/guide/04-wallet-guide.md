@@ -117,13 +117,17 @@ title: How to use
 
 ## Trust a new asset
 
-#### Choose the relevant wallet
+#### Choose the relevant wallet.
 
-#### Click the “three-dots” button on the top right corner of the page.
+#### Click the “three-dots” button on the top right corner of the page. Choose “Manage Assets”. 
 
-#### Choose “Manager Assets”. Choose the asset you would like to trust. If it is not on the list, choose “ADD CUSTOM ASSET” on the top right corner of the page and type in the code and issuer of the asset. Then, choose “trust asset”.
+![](/images/three-dots.png)
 
-#### Type in the password of your wallet and click “confirm”.
+#### Choose the asset you would like to trust. If it is not on the list, choose “ADD CUSTOM ASSET” on the top right corner of the page and type in the code and issuer of the asset. Then, choose “trust asset”.
+
+![](/images/screen-shot-2019-02-18-at-11.43.16.png)
+
+#### Type in the password of your wallet and click “confirm”. If you don't have a password, skip this step. 
 
 #### You are now ready to trade the asset which you have trusted.
 
@@ -131,26 +135,32 @@ title: How to use
 
 #### Choose the relevant wallet
 
-#### Click the “three-dots” button on the top right corner of the page.
+#### Click the “three-dots” button on the top right corner of the page. Choose “Manage Signers”.
 
-#### Choose “Manage Signers”.
+![](/images/three-dots.png)
+
+#### 
 
 #### Click "ADD CO-SIGNER" on the top right corner of the page.
 
 #### Add the public key of the co-signer and enter the number of required co-signers for every transaction. Click "APPLY CHANGES" to confirm it.
 
+![](/images/cosigners.png)
+
 #### To remove a co-signer, simply click the "cross" icon next to the public key of the co-signer.
 
 ## Enable Testnet features
 
-#### Run Solar wallet, choose the "setting" icon on the top right corner of the window.
+#### Run Solar wallet. Choose the "setting" icon on the top right corner of the window.
+
+![](/images/screen-shot-2019-02-18-at-12.01.13.png)
 
 #### Click the "switch" next to "Show Testnet Accounts" to activate the testnet option.
 
 #### Click the arrow next to "Settings" to go back to the main page.
 
-#### Now when you're back on the main page, the button "SWITCH TO TESTNET" would appear next to the setting button. Click "SWITCH TO TESTNET" to go to TESTNET
+#### Now when you're back on the main page, the button "SWITCH TO TESTNET" would appear next to the setting button. Click "SWITCH TO TESTNET" to go to testnet
 
 #### Click "Add new" to create the wallet. Follow the normal procedure to create a new wallet/import an existing wallet.
 
-#### To go back to mainnet or to leave testnet, click the "SWITCH TO MAINNET" button next to the setting button.
+#### To go back to "mainnet" or to leave testnet, click the "SWITCH TO MAINNET" button next to the setting button.
