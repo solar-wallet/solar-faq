@@ -53,6 +53,8 @@ title: How to use
 
 ![null](/images/tap-to-copy.png)
 
+
+
 ## Export Secret Key
 
 #### Choose the relevant wallet.
@@ -69,6 +71,8 @@ title: How to use
 
 #### Your secret key is revealed in plaintext. **Please keep this text safe as this unencrypted secret key gives anybody access to your funds.**
 
+
+
 ## Import an existing wallet
 
 #### Click “Add new”.
@@ -76,6 +80,8 @@ title: How to use
 #### Name your wallet by typing in the field near the “pen icon”. Create a password and repeat it in the blanks (optional, but highly recommended!). Click the switch button near “Import Existing” and type in your secret key in the blank below. Click "IMPORT Account" to confirm it.
 
 ![null](/images/screen-shot-2019-02-15-at-17.51.06.png)
+
+
 
 ## Reset password
 
@@ -88,6 +94,8 @@ title: How to use
 #### 
 
 #### Type in your current password, as well as the new password twice. Click “CHANGE PASSWORD” to confirm the change.
+
+
 
 ## Remove the password protection (not recommended).
 
@@ -103,6 +111,8 @@ title: How to use
 
 #### Type in your current password and click “REMOVE PASSWORD” to confirm the removal of your password.
 
+
+
 ## Rename my wallet
 
 #### Choose the relevant wallet.
@@ -114,6 +124,8 @@ title: How to use
 ![](/images/three-dots.png)
 
 #### Type in the new name and click “RENAME”.
+
+
 
 ## Trust a new asset
 
@@ -130,6 +142,8 @@ title: How to use
 #### Type in the password of your wallet and click “confirm”. If you don't have a password, skip this step. 
 
 #### You are now ready to trade the asset which you have trusted.
+
+
 
 ## Enable/manage the multi-signature feature.
 
@@ -148,6 +162,8 @@ title: How to use
 ![](/images/cosigners.png)
 
 #### To remove a co-signer, simply click the "cross" icon next to the public key of the co-signer.
+
+
 
 ## Enable Testnet features
 
