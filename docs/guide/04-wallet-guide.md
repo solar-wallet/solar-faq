@@ -5,7 +5,7 @@ title: How to use
 
 #### Choose "add new".
 
-![](/images/screen-shot-2019-02-18-at-12.32.48.png)
+![null](/images/screen-shot-2019-02-18-at-12.32.48.png)
 
 #### Click on the field near the "pen" icon and type in the name you want for your wallet. Create a password and repeat it in the blanks. (optional, but highly recommended!) Click "Create Account" to confirm it.
 
@@ -15,11 +15,11 @@ title: How to use
 
 #### Your wallet is now ready for receiving payments! Click "RECEIVE" to find the payout address/public key of your wallet.
 
-![](/images/screen-shot-2019-02-18-at-10.35.36.png)
+![null](/images/screen-shot-2019-02-18-at-10.35.36.png)
 
 #### Click the long code underneath the QR code to copy the payout address/public key of your wallet.
 
-![](/images/receive.png)
+![null](/images/receive.png)
 
 ## Send Payment
 
@@ -29,7 +29,7 @@ title: How to use
 
 ![null](/images/screen-shot-2019-02-18-at-10.35.36.png)
 
-#### Fill in the destination address and the amount of the assets which you would like to send. If necessary, you could also include a text or an ID for your transaction by choosing “Text” or “ID” respectively and then fill in the relevant information. Click “send” to confirm it.
+#### Fill in the destination address and the amount of the assets which you would like to send. If necessary, you could also include a text or an ID for your transaction by choosing “Text” or “ID” respectively under "Memo type" and then fill in the relevant information. Click “send” to confirm it.
 
 ![null](/images/screen-shot-2019-02-15-at-17.54.08.png)
 
@@ -47,7 +47,7 @@ title: How to use
 
 #### Your payout address/public key is written under the QR code. Click it to copy it. Send this public key to the entity/person you would like to receive your payment from.
 
-![](/images/receive.png)
+![null](/images/receive.png)
 
 ## Export Secret Key
 
@@ -61,7 +61,7 @@ title: How to use
 
 #### Type in your password in the blank and click the button “CLICK TO REVEAL YOUR SECRET KEY”. If you do not have a password, simply click the button “CLICK TO REVEAL YOUR SECRET KEY”.
 
-   ![null](/images/password-secret-.png)
+![](/images/screen-shot-2019-02-19-at-08.35.16.png)
 
 #### Your secret key is revealed in plaintext. **Please keep this text safe as this unencrypted secret key gives anybody access to your funds.**
 
