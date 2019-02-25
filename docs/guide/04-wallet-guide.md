@@ -8,7 +8,6 @@ title: How to use
 ![null](/images/screen-shot-2019-02-18-at-12.32.48.png)
 
 * **Click on the field near the "pen" icon and type in the name you want for your wallet. Create a password and repeat it in the blanks (optional, but highly recommended). Click "Create Account" to confirm it.**
-
    P.S. We cannot recover your password! So please make sure you can remember it.
 
 ![null](/images/rename-again.png)
@@ -49,9 +48,7 @@ title: How to use
 ## Export Secret Key
 
 * **Choose the relevant wallet.**
-
    ![null](/images/choose-an-account.png)
-
 * **Click the “three-dots” button on the top right corner of the page to open the Wallet menu. Choose “Export Secret Key”.**
 * **Type in your password in the blank and click the button “CLICK TO REVEAL YOUR SECRET KEY”. If you do not have a password, simply click the button “CLICK TO REVEAL YOUR SECRET KEY”.**
 
@@ -64,7 +61,7 @@ title: How to use
 * **Click “Add new”.**
 * **Name your wallet by typing in the field near the “pen icon”. Create a password and repeat it in the blanks (optional, but highly recommended!). Click the switch button near “Import Existing” and type in your secret key in the blank below. Click "IMPORT Account" to confirm it.**
 
-
+![](/images/rename-again.png)
 
 ## **Remove the password protection (not recommended).**
 
