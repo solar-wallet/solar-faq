@@ -31,7 +31,7 @@ If you have any further questions on how to convert your lumens into your local 
 
 ## Privacy and Security
 
-### Security of the funds in the wallet
+### Funds are under your control
 
 No. Your secret ID/private key is never disclosed to anyone, not even to us. Without the private key, no one will ever be able to control the funds in your wallet. 
 
