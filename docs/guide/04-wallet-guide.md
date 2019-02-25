@@ -98,8 +98,11 @@ title: Solar Wallet Guide
    ![null](/images/cosigners.png)
 5. **To remove a co-signer, simply click the "cross" icon next to the public key of the co-signer.**
 
-## Trust a new asset
+### Create Multi-Sig Transaction
+1. Under construction
 
+## Asset Management
+### Add Assets
 1. **Choose the relevant wallet.**
 2. **Click the “three-dots” button on the top right corner of the page to open the wallet menu.  Choose “Manage Assets”.**
 3. **Choose the asset you would like to trust. If it is not on the list, choose “ADD CUSTOM ASSET” on the top right corner of the page and type in the code and issuer of the asset. Then, choose “trust asset”.**
@@ -110,9 +113,17 @@ title: Solar Wallet Guide
 
 You are now ready to trade the asset which you have trusted.
 
-# Solar Wallet General Settings
+### Custom Assets
+1. Under construction
 
-## Enable Testnet features
+## DEx (coming soon!)
+
+### Enable DEx 
+1. Under construction
+
+## Testnet
+
+### Enable Testnet features
 
 1. **Run Solar wallet. Choose the "setting" icon on the top right corner of the window.**
 
@@ -124,23 +135,6 @@ You are now ready to trade the asset which you have trusted.
 5. **Click "Add new" to create the wallet. Follow the normal procedure to create a new wallet/import an existing wallet.**
 6. **To go back to "mainnet" or to leave testnet, click the "SWITCH TO MAINNET" button next to the setting button.**
 
-# Solar Wallet General Settings
 
-## Enable/manage the multi-signature feature.
-
-1. Choose the relevant wallet
-2. Click the “three-dots” button on the top right corner of the page to open the wallet menu. Choose "manage signers".
-3. Click "ADD CO-SIGNER" on the top right corner of the page.
-4. Add the public key of the co-signer and enter the number of required co-signers for every transaction. Click "APPLY CHANGES" to confirm it.
-   ![null](/images/cosigners.png)
-5. **To remove a co-signer, simply click the "cross" icon next to the public key of the co-signer.**
-
-## Enable Testnet features
-
-1. **Run Solar wallet. Choose the "setting" icon on the top right corner of the window.**
-   ![null](/images/screen-shot-2019-02-18-at-12.01.13.png)
-2. **Click the "switch" next to "Show Testnet Accounts" to activate the testnet option.**
-3. **Click the arrow next to "Settings" to go back to the main page.**
-4. **Now when you're back on the main page, the button "SWITCH TO TESTNET" would appear next to the setting button. Click "SWITCH TO TESTNET" to go to testnet**
-5. **Click "Add new" to create the wallet. Follow the normal procedure to create a new wallet/import an existing wallet.**
-6. **To go back to "mainnet" or to leave testnet, click the "SWITCH TO MAINNET" button next to the setting button.**
+### Friendbot
+1. Under construction
