@@ -3,23 +3,21 @@ title: Installation
 ---
 ## Download
 
-Go to solarwallet.io. Click "GET WALLET NOW". 
-
-Choose the version of the wallet you would like to download (for Window, Mac or Linux).
-
-Depending on which version you are downloading, you might have to make certain changes at the setting of your system to install solar wallet. 
+* **Go to solarwallet.io. Click "GET WALLET NOW". **
+* **Choose the version of the wallet you would like to download (for Window, Mac or Linux).**
+* **Depending on which version you are downloading, you might have to make certain changes at the setting of your system to install solar wallet. **
 
 ## macOS
 
-If you are installing Solar Wallet for macOS, you might come across the following warning message:
+* **If you are installing Solar Wallet for macOS, you might come across the following warning message:**
 
 ![null](/images/3.png)
 
-In order to authorize the installation, hover the mouse on the top left corner of your screen. Click the "Apple" logo and choose "System Preferences". 
+* **In order to authorize the installation, hover the mouse on the top left corner of your screen. Click the "Apple" logo and choose "System Preferences". **
 
 ![null](/images/4.png)
 
-In "System Preferences", choose "Security & Privacy"
+* **In "System Preferences", choose "Security & Privacy"**
 
 ![null](/images/5.png)
 
