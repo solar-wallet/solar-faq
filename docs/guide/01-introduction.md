@@ -19,11 +19,11 @@ Solar wallet is a Stellar wallet for desktop devices. It is created by SatoshiPa
 
 **Supports: Windows, Mac, Linux**
 
-## The reason why it is free
+## 100% free and secure
 
 At SatoshiPay we needed an easy-to-use Stellar wallet for all major platforms that offered enterprise-grade security features. So we built it. The wallet is 100% free (and the core product will remain so), but in future we might add enterprise features, which will come at a cost.
 
-## Exchange my lumens to fiat
+## Easy exchange from lumens to fiat
 
 It is very simple to convert the lumens you receive from customers into your local currency. All you need is a digital currency exchange. You can find a list of digital currency exchanges on coinmarketcap.com.
 
