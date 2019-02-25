@@ -21,28 +21,28 @@ title: Installation
 
 ![null](/images/5.png)
 
-In "Security & Privacy", choose "Open Anyway". 
+* **In "Security & Privacy", choose "Open Anyway". **
 
 ![null](/images/6.png)
 
-A warning message will appear again. Click "Open".
+* **A warning message will appear again. Click "Open".**
 
 ![null](/images/7.png)
 
-Solar will then be started. Check both boxes on the left. And then click "CONFIRM".
+* **Solar will then be started. Check both boxes on the left. And then click "CONFIRM to run Solar Wallet. **
 
 ## Windows
 
-After clicking "Download for Windows", run the programme to start the installation.  
+* **After clicking "Download for Windows", run the programme to start the installation.  **
 
 ![null](/images/a.png)
 
-In a few seconds, a warning message from Windows Defender SmartScreen might appear. Click "More Info" to proceed.
+* **In a few seconds, a warning message from Windows Defender SmartScreen might appear. Click "More Info" to proceed.**
 
 ![null](/images/b.png)
 
-After clicking "More info", the button "Run anyway" will appear on the bottom right corner of the window. Click it. 
+* **After clicking "More info", the button "Run anyway" will appear on the bottom right corner of the window. Click it. **
 
 ![null](/images/c.png)
 
-Solar will then be started. Check both boxes on the left. And then click "CONFIRM".
+* **Solar will then be started. Check both boxes on the left. And then click "CONFIRM" to run Solar Wallet. **
