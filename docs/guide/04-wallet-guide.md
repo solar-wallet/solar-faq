@@ -103,7 +103,7 @@ title: Solar Wallet Guide
 
 ## Asset Management
 
-### Add Assets
+### Add Assets like USD/EURT/CNY
 1. **Choose the relevant wallet.**
 2. **Click the “three-dots” button on the top right corner of the page to open the wallet menu.  Choose “Manage Assets”.**
 3. **Choose the asset you would like to trust. If it is not on the list, choose “ADD CUSTOM ASSET” on the top right corner of the page and type in the code and issuer of the asset. Then, choose “trust asset”.**
@@ -114,8 +114,13 @@ title: Solar Wallet Guide
 
 You are now ready to trade the asset which you have trusted.
 
-### Custom Assets
-1. Under construction
+### Add custom Assets
+1. **Choose the relevant wallet.**
+2. **Click the “three-dots” button on the top right corner of the window to open the wallet menu.  Choose “Manage Assets”.**
+3. **Click "ADD CUSTOM ASSET" on the top right corner of the window.**
+4. **Put in the code, issuer (issuing account public key) and limit (maximum balance to hold). Click "TRUST ASSET" to confirm.**
+
+You are now ready to trade the asset which you have trusted.
 
 ## DEx (coming soon!)
 
