@@ -11,7 +11,7 @@ With Stellar, sending money can be as easy as sending an email. The Stellar netw
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ixerXWJrDr0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Learn more about Stellar:
+## Learn more about Stellar
 
 Click the following link to take the free online course by Lumenauts to learn more about Stellar:
 
