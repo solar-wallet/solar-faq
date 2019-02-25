@@ -103,7 +103,7 @@ title: Solar Wallet Guide
 
 ## Asset Management
 
-### Add Assets like USD/EURT/CNY
+### Add EURT/USD/CNY
 1. **Choose the relevant wallet.**
 2. **Click the “three-dots” button on the top right corner of the page to open the wallet menu.  Choose “Manage Assets”.**
 3. **Choose the asset you would like to trust. If it is not on the list, choose “ADD CUSTOM ASSET” on the top right corner of the page and type in the code and issuer of the asset. Then, choose “trust asset”.**
