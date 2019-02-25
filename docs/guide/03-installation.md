@@ -33,10 +33,6 @@ A warning message will appear again. Click "Open".
 
 Solar will then be started. Check both boxes on the left. And then click "CONFIRM".
 
-![null](/images/8.png)
-
-![null](/images/9.png)
-
 ## Windows
 
 After clicking "Download for Windows", run the programme to start the installation.  
@@ -52,9 +48,3 @@ After clicking "More info", the button "Run anyway" will appear on the bottom ri
 ![null](/images/c.png)
 
 Solar will then be started. Check both boxes on the left. And then click "CONFIRM".
-
-![null](/images/d.png)
-
-![null](/images/e.png)
-
-## Linux
