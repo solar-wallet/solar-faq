@@ -1,5 +1,5 @@
 ---
-title: How to use
+title: Solar Wallet Individual Account Settings
 ---
 # Solar Wallet Individual Account Settings
 
