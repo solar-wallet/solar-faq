@@ -57,7 +57,7 @@ title: How to use
 
 #### Click the “three-dots” button on the top right corner of the page to open the Wallet menu. Choose “Export Secret Key”.
 
-#### 
+
 
 #### Type in your password in the blank and click the button “CLICK TO REVEAL YOUR SECRET KEY”. If you do not have a password, simply click the button “CLICK TO REVEAL YOUR SECRET KEY”.
 
@@ -90,8 +90,6 @@ title: How to use
 #### Choose the relevant wallet.
 
 #### Click the “three-dots” button on the top right corner of the page to open the wallet menu. Choose “Rename”.
-
-#### 
 
 #### Type in the new name and click “RENAME”.
 
