@@ -3,7 +3,7 @@ title: Solar Wallet Guide
 ---
 # Solar Wallet Guide
 
-\##Account Management
+## Account Management
 
 ### Create Stellar Account
 
@@ -56,7 +56,7 @@ title: Solar Wallet Guide
 
 ## Payments
 
-## Receive Payment
+### Receive Payment
 
 1. **Select the relevant wallet.**
 2. **Click “RECEIVE”**
@@ -102,6 +102,7 @@ title: Solar Wallet Guide
 1. Under construction
 
 ## Asset Management
+
 ### Add Assets
 1. **Choose the relevant wallet.**
 2. **Click the “three-dots” button on the top right corner of the page to open the wallet menu.  Choose “Manage Assets”.**
