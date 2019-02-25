@@ -55,9 +55,9 @@ title: How to use
 
    ![null](/images/choose-an-account.png)
 
-#### Click the “three-dots” button on the top right corner of the page. Choose “Export Secret Key”.
+#### Click the “three-dots” button on the top right corner of the page to open the Wallet menu. Choose “Export Secret Key”.
 
-#### ![null](/images/three-dots.png)
+#### 
 
 #### Type in your password in the blank and click the button “CLICK TO REVEAL YOUR SECRET KEY”. If you do not have a password, simply click the button “CLICK TO REVEAL YOUR SECRET KEY”.
 
@@ -73,15 +73,11 @@ title: How to use
 
 ![null](/images/screen-shot-2019-02-15-at-17.51.06.png)
 
-
-
 ## Remove the password protection (not recommended).
 
 #### Choose the relevant wallet.
 
-#### Click the “three-dots” button on the top right corner of the page.
-
-![null](/images/three-dots.png)
+#### Click the “three-dots” button on the top right corner of the page to open the wallet menu. 
 
 #### Choose “Change password”.
 
@@ -93,11 +89,9 @@ title: How to use
 
 #### Choose the relevant wallet.
 
-#### Click the “three-dots” button on the top right corner of the page. Choose “Rename”.
+#### Click the “three-dots” button on the top right corner of the page to open the wallet menu. Choose “Rename”.
 
 #### 
-
-![null](/images/three-dots.png)
 
 #### Type in the new name and click “RENAME”.
 
@@ -105,9 +99,7 @@ title: How to use
 
 #### Choose the relevant wallet.
 
-#### Click the “three-dots” button on the top right corner of the page. Choose “Manage Assets”.
-
-![null](/images/three-dots.png)
+#### Click the “three-dots” button on the top right corner of the page to open the wallet menu.  Choose “Manage Assets”.
 
 #### Choose the asset you would like to trust. If it is not on the list, choose “ADD CUSTOM ASSET” on the top right corner of the page and type in the code and issuer of the asset. Then, choose “trust asset”.
 
@@ -121,11 +113,7 @@ title: How to use
 
 #### Choose the relevant wallet
 
-#### Click the “three-dots” button on the top right corner of the page. Choose “Manage Signers”.
-
-![null](/images/three-dots.png)
-
-#### 
+#### Click the “three-dots” button on the top right corner of the page to open the wallet menu. Choose "manage signers".
 
 #### Click "ADD CO-SIGNER" on the top right corner of the page.
 
