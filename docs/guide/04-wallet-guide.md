@@ -1,6 +1,8 @@
 ---
 title: How to use
 ---
+# Solar Wallet Individual Account Settings
+
 ## Create Stellar Account
 
 * **Choose "add new".**
@@ -61,7 +63,7 @@ title: How to use
 * **Click “Add new”.**
 * **Name your wallet by typing in the field near the “pen icon”. Create a password and repeat it in the blanks (optional, but highly recommended!). Click the switch button near “Import Existing” and type in your secret key in the blank below. Click "IMPORT Account" to confirm it.**
 
-![](/images/rename-again.png)
+![null](/images/rename-again.png)
 
 ## **Remove the password protection (not recommended).**
 
@@ -88,6 +90,8 @@ title: How to use
 * **Type in the password of your wallet and click “confirm”. If you don't have a password, skip this step.**
 
 You are now ready to trade the asset which you have trusted.
+
+# Solar Wallet General Settings
 
 ## Enable/manage the multi-signature feature.
 
