@@ -1,7 +1,7 @@
 ---
 title: Introduction
 ---
-## What is Solar wallet?
+## About Solar Wallet
 
 Solar wallet is a Stellar wallet for desktop devices. It is created by SatoshiPay with the explicit goal of making a business-friendly wallet which emphasizes speed, a smooth user experience (UX), and security. 
 
@@ -19,7 +19,7 @@ Solar wallet is a Stellar wallet for desktop devices. It is created by SatoshiPa
 
 **Supports: Windows, Mac, Linux**
 
-## Why is it Free?
+## The reason why it is free
 
 At SatoshiPay we needed an easy-to-use Stellar wallet for all major platforms that offered enterprise-grade security features. So we built it. The wallet is 100% free (and the core product will remain so), but in future we might add enterprise features, which will come at a cost.
 
@@ -31,13 +31,13 @@ If you have any further questions on how to convert your lumens into your local 
 
 ## Privacy and Security
 
-### Can solarwallet.io control the funds in my wallet?
+### Security of the funds in the wallet
 
 No. Your secret ID/private key is never disclosed to anyone, not even to us. Without the private key, no one will ever be able to control the funds in your wallet. 
 
 At solarwallet.io we highly value customer’s privacy and freedom, and we are committed to using decentralized security architecture to keep your funds safe. 
 
-### What information does SatoshiPay collect from me?
+### Privacy Policy
 
 To learn more about our privacy policy, please click the following link:
 satoshipay.io/privacy
