@@ -92,10 +92,11 @@ title: Solar Wallet Guide
 ### Make individual account multi-signature
 
 1. **Choose the relevant wallet**
-2. **Click the “three-dots” button on the top right corner of the page to open the wallet menu. Choose "manage signers".**
+2. **Click the “three-dots” button on the top right corner of the window to open the wallet menu. Choose "manage signers".**
 3. **Click "ADD CO-SIGNER" on the top right corner of the page.**
 4. **Add the public key of the co-signer and enter the number of required co-signers for every transaction. Click "APPLY CHANGES" to confirm it.**
    ![null](/images/cosigners.png)
+p.s.  "Required signatures" mean the number of accounts needed to authorize a transaction. 
 5. **To remove a co-signer, simply click the "cross" icon next to the public key of the co-signer.**
 
 ### Create Multi-Sig Transaction
