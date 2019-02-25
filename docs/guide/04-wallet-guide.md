@@ -61,11 +61,11 @@ title: How to use
 
 #### Type in your password in the blank and click the button “CLICK TO REVEAL YOUR SECRET KEY”. If you do not have a password, simply click the button “CLICK TO REVEAL YOUR SECRET KEY”.
 
-![](/images/screen-shot-2019-02-19-at-08.35.16.png)
+![null](/images/screen-shot-2019-02-19-at-08.35.16.png)
 
 #### Your secret key is revealed in plaintext. **Please keep this text safe as this unencrypted secret key gives anybody access to your funds.**
 
-## Import an existing wallet
+## Import an existing account
 
 #### Click “Add new”.
 
@@ -73,17 +73,7 @@ title: How to use
 
 ![null](/images/screen-shot-2019-02-15-at-17.51.06.png)
 
-## Reset password
 
-#### Choose the relevant wallet.
-
-#### Click the “three-dots” button on the top right corner of the page. Choose “Change password”.
-
-![null](/images/three-dots.png)
-
-#### 
-
-#### Type in your current password, as well as the new password twice. Click “CHANGE PASSWORD” to confirm the change.
 
 ## Remove the password protection (not recommended).
 
