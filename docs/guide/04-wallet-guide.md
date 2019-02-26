@@ -12,7 +12,8 @@ title: Solar Wallet Guide
 ![](/images/screen-shot-2019-02-18-at-12.32.48.png)
 
 2. **Click on the field near the "pen" icon and type in the name you want for your wallet. Create a password and repeat it in the blanks (optional, but highly recommended). Click "Create Account" to confirm it.**
- P.S. We cannot recover your password! So please make sure you can remember it.
+
+P.S. We cannot recover your password! So please make sure you can remember it.
 
 ![null](/images/rename-again.png)
 
@@ -40,7 +41,7 @@ title: Solar Wallet Guide
 
 ![null](/images/rename-again.png)
 
-### **Remove the password protection (not recommended).**
+### **Remove the password protection (not recommended)**
 
 1. **Choose the relevant wallet.**
 2. **Click the “three-dots” button on the top right corner of the page to open the wallet menu.**
@@ -79,15 +80,16 @@ title: Solar Wallet Guide
 ![null](/images/screen-shot-2019-02-15-at-17.54.08.png)
 
 4. **Fill in your password and click “confirm” to proceed with your payment. If you don’t have a password, simply click “confirm” to make the payment.**
-* **Your payment should be carried out instantly.**
+
+**Your payment should be carried out instantly.**
 
 ## Multi-Sig Account
 
 ### Enable the multi-signature feature on Solar
 
-1. **Run Solar Wallet and go to the main menu. Click the setting button on the top right corner. **
-2. **Click the switch next to "Enable Multi-Signature Features" to activate the feature. **
-3. **Click the arrow next to "Settings" to go back to the main menu. You are ready to make individual account multi-signature. **
+1. **Run Solar Wallet and go to the main menu. Click the setting button on the top right corner.**
+2. **Click the switch next to "Enable Multi-Signature Features" to activate the feature.**
+3. **Click the arrow next to "Settings" to go back to the main menu. You are ready to make individual account multi-signature.**
 
 ### Make individual account multi-signature
 
