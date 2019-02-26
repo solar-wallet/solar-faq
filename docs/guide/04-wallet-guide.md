@@ -32,9 +32,11 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 ### Export Secret Key
 
 1. **Choose the relevant wallet.**
-   ![null](/images/choose-an-account.png)
-2. **Click the “three-dots” button on the top right corner of the window to open the Wallet menu. Choose “Export Secret Key”.**
-3. **Type in your password in the blank and click the button “CLICK TO REVEAL YOUR SECRET KEY”. If you do not have a password, simply click the button “CLICK TO REVEAL YOUR SECRET KEY”.**
+
+![](/images/screen-shot-2019-02-26-at-13.08.11.png)
+
+1. **Click the “three-dots” button on the top right corner of the window to open the Wallet menu. Choose “Export Secret Key”.**
+2. **Type in your password in the blank and click the button “CLICK TO REVEAL YOUR SECRET KEY”. If you do not have a password, simply click the button “CLICK TO REVEAL YOUR SECRET KEY”.**
 
 ![null](/images/screen-shot-2019-02-19-at-08.35.16.png)
 
