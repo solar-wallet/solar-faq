@@ -40,7 +40,6 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 
 4. **Your secret key is revealed in plaintext. Please keep this text safe as this unencrypted secret key gives anybody access to your funds.**
 
-
 ### **Remove the password protection (not recommended)**
 
 1. **Choose the relevant wallet.**
@@ -62,7 +61,7 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 
 3. **Your payout address/public key is written under the QR code. Click it to copy it. Send this public key to the entity/person you would like to receive your payment from.**
 
-![null](/images/receive.png)
+![null](/images/blur-2.png)
 
 ### Send Payment
 
@@ -102,6 +101,7 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 1. Under construction
 
 ## Asset Management
+
 To learn about assets, click the following link:
 https://www.stellar.org/developers/guides/concepts/assets.html
 
@@ -124,7 +124,7 @@ You are now ready to trade the asset which you have trusted.
 3. **Click "ADD CUSTOM ASSET" on the top right corner of the window.**
 4. **Put in the code, issuer (issuing account public key) and limit (maximum balance to hold). Click "TRUST ASSET" to confirm.**
 
-![](/images/screen-shot-2019-02-26-at-09.37.19.png)
+![null](/images/screen-shot-2019-02-26-at-09.37.19.png)
 
 You are now ready to trade the asset which you have trusted.
 
