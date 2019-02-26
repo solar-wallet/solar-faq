@@ -1,18 +1,25 @@
 ---
-title: Stellar Network Guide
+title: Stellar
 ---
 ## About Stellar
 
-With Stellar, sending money can be as easy as sending an email. The Stellar network provides a quick and almost free way to send payments between different parties in any assets. Watch the following video by Lumenauts to learn more about the Stellar network. 
+With Stellar, sending money can be as easy as sending an email. The Stellar network provides a quick and almost free way to send payments between different parties in any assets. The folks over at [Lumenauts](https://www.lumenauts.com/courses/stellar-overview-course) have made some explainer videos, which are a great way to learn more about the Stellar network. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ixerXWJrDr0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## About Nodes, Network, & Ledger
+## Cryptocurrency
+
+The basic currency used on the Stellar network is called "lumens" and is mostly represented with the following ticker: "XLM".
+
+### Exchanges
+
+You can convert lumens into most currencies in the world through online digital currency exchanges. Find a full list of Stellar exchanges on [CoinMarketCap](https://coinmarketcap.com/currencies/stellar/#markets).
+
+
+## Nodes, Network, & Ledger
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ixerXWJrDr0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Learn more about Stellar
 
 Click the following link to take the free online course by Lumenauts to learn more about Stellar:
 
-<https://www.lumenauts.com/lessons/what-is-stellar>
+[Learn everything about Stellar in 30 min for free](https://www.lumenauts.com/courses/stellar-overview-course)
