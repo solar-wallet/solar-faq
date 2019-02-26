@@ -9,7 +9,7 @@ title: Solar Wallet Guide
 
 1. **Choose "add new".**
 
-![](/images/screen-shot-2019-02-18-at-12.32.48.png)
+![null](/images/screen-shot-2019-02-18-at-12.32.48.png)
 
 2. **Click on the field near the "pen" icon and type in the name you want for your wallet. Create a password and repeat it in the blanks (optional, but highly recommended). Click "Create Account" to confirm it.**
 
@@ -18,7 +18,6 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 ![null](/images/rename-again.png)
 
 3. **Your wallet is now ready for receiving payments! Click "RECEIVE" to find the payout address/public key of your wallet.**
-
 4. **Click the long code underneath the QR code to copy the payout address/public key of your wallet.**
 
 ![null](/images/receive.png)
@@ -97,20 +96,21 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 2. **Click the “three-dots” button on the top right corner of the window to open the wallet menu. Choose "manage signers".**
 3. **Click "ADD CO-SIGNER" on the top right corner of the page.**
 4. **Add the public key of the co-signer and enter the number of required co-signers for every transaction. Click "APPLY CHANGES" to confirm it.**
-   ![null](/images/cosigners.png)
-p.s.  "Required signatures" mean the number of accounts needed to authorize a transaction. 
-
+      ![null](/images/cosigners.png)
+   p.s.  "Required signatures" mean the number of accounts needed to authorize a transaction. 
 5. **To remove a co-signer, simply click the "cross" icon next to the public key of the co-signer.**
 
 ### Create Multi-Sig Transaction
+
 1. Under construction
 
 ## Asset Management
 
 ### Add EURT/USD/CNY
+
 1. **Choose the relevant wallet.**
 2. **Click the “three-dots” button on the top right corner of the window to open the wallet menu.  Choose “Manage Assets”.**
-3. **Choose the asset you would like to trust. If it is not on the list, choose “ADD CUSTOM ASSET” on the top right corner of the page and type in the code and issuer of the asset. Then, choose “trust asset”.**
+3. **Choose the asset you would like to trust. Then, choose “trust asset”.**
 
 ![null](/images/screen-shot-2019-02-18-at-11.43.16.png)
 
@@ -119,16 +119,20 @@ p.s.  "Required signatures" mean the number of accounts needed to authorize a tr
 You are now ready to trade the asset which you have trusted.
 
 ### Add custom Assets
+
 1. **Choose the relevant wallet.**
 2. **Click the “three-dots” button on the top right corner of the window to open the wallet menu.  Choose “Manage Assets”.**
 3. **Click "ADD CUSTOM ASSET" on the top right corner of the window.**
 4. **Put in the code, issuer (issuing account public key) and limit (maximum balance to hold). Click "TRUST ASSET" to confirm.**
 
+![](/images/screen-shot-2019-02-26-at-09.37.19.png)
+
 You are now ready to trade the asset which you have trusted.
 
 ## DEx (coming soon!)
 
-### Enable DEx 
+### Enable DEx
+
 1. Under construction
 
 ## Testnet
@@ -145,6 +149,6 @@ You are now ready to trade the asset which you have trusted.
 5. **Click "Add new" to create the wallet. Follow the normal procedure to create a new wallet/import an existing wallet.**
 6. **To go back to "mainnet" or to leave testnet, click the "SWITCH TO MAINNET" button next to the setting button.**
 
-
 ### Friendbot
+
 1. Under construction
