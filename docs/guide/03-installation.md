@@ -13,11 +13,11 @@ title: Installation
 
 1. **If you are installing Solar Wallet for macOS, you might come across the following warning message:**
 
-![null](/images/screen-shot-2019-02-26-at-14.00.00.png)
+![](/images/screen-shot-2019-02-26-at-14.00.00.png)
 
 2. **In order to authorize the installation, hover the mouse on the top left corner of your screen. Click the "Apple" logo and choose "System Preferences".**
 
-![](/images/system-preference.png)
+![null](/images/system-preference.png)
 
 2. **In "System Preferences", choose "Security & Privacy"**
 
@@ -33,7 +33,7 @@ title: Installation
 
 6. Afterward, drag the Solar Wallet icon to the Applications folder. Follow the standard procedure to install Solar.
 
-![](/images/screen-shot-2019-02-26-at-14.08.11.png)
+![null](/images/screen-shot-2019-02-26-at-14.08.11.png)
 
 ## Windows
 
