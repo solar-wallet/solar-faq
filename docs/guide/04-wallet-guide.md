@@ -155,9 +155,9 @@ https://www.stellar.org/developers/guides/concepts/test-net.html
 
 2. **Click the "switch" next to "Show Testnet Accounts" to activate the testnet option.**
 3. **Click the arrow next to "Settings" to go back to the main page.**
-4. **Now when you're back on the main page, the button "SWITCH TO TESTNET" would appear next to the setting button. Click "SWITCH TO TESTNET" to go to testnet**
+4. **Now when you're back on the main page, the button "Switch to Testnet" would appear next to the setting button. Click "Switch to Testnet" to go to testnet**
 5. **Click "Add new" to create the wallet. Follow the normal procedure to create a new wallet/import an existing wallet.**
-6. **To go back to "mainnet" or to leave testnet, click the "SWITCH TO MAINNET" button next to the setting button.**
+6. **To go back to "mainnet" or to leave testnet, click the "Switch to Mainnet" button next to the setting button.**
 
 ### Friendbot
 
