@@ -50,7 +50,7 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 
 ### Account View
 
-![](/images/with-blurss.png)
+![null](/images/with-blurss.png)
 
 ## Payments
 
@@ -74,7 +74,7 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 
 3. **Fill in the destination address and the amount of the assets which you would like to send. If necessary, you could also include a text or an ID for your transaction by choosing “Text” or “ID” respectively under "Memo type" and then fill in the relevant information. Click “send” to confirm it.**
 
-![null](/images/screen-shot-2019-02-15-at-17.54.08.png)
+![null](/images/screen-shot-2019-02-26-at-13.00.17.png)
 
 4. **Fill in your password and click “confirm” to proceed with your payment. If you don’t have a password, simply click “confirm” to make the payment.**
 
@@ -95,7 +95,7 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 3. **Click "ADD CO-SIGNER" on the top right corner of the page.**
 4. **Add the public key of the co-signer and enter the number of required co-signers for every transaction. Click "APPLY CHANGES" to confirm it.**
 
-![](/images/blue-3.png)
+![null](/images/blue-3.png)
 
 \
 p.s.  "Required signatures" mean the number of accounts needed to authorize a transaction. 
