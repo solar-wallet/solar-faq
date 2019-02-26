@@ -133,7 +133,7 @@ You are now ready to trade the asset which you have trusted.
 
 ## DEx (coming soon!)
 
-### Enable DEx
+### Enable (coming soon!)
 
 1. Under construction
 
@@ -156,4 +156,5 @@ https://www.stellar.org/developers/guides/concepts/test-net.html
 
 ### Friendbot
 
-1. Under construction
+Friendbot is a tool which Stellar testnet provides for developers for testing purposes. To learn more about it, click the following link:
+https://www.stellar.org/developers/horizon/reference/tutorials/follow-received-payments.html
