@@ -99,7 +99,6 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 
 ![null](/images/blue-3.png)
 
-\
 p.s.  "Required signatures" mean the number of accounts needed to authorize a transaction. 
 
 1. **To remove a co-signer, simply click the "cross" icon next to the public key of the co-signer.**
