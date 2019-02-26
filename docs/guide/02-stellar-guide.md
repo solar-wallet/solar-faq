@@ -9,8 +9,6 @@ With Stellar, sending money can be as easy as sending an email. The Stellar netw
 
 ## About Nodes, Network, & Ledger
 
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ixerXWJrDr0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Learn more about Stellar
