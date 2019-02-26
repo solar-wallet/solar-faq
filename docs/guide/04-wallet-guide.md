@@ -117,7 +117,7 @@ https://www.stellar.org/developers/guides/concepts/assets.html
 2. **Click the “three-dots” button on the top right corner of the window to open the wallet menu.  Choose “Manage Assets”.**
 3. **Choose the asset you would like to trust. Then, choose “trust asset”.**
 
-![null](/images/screen-shot-2019-02-18-at-11.43.16.png)
+![null](/images/screen-shot-2019-02-26-at-13.05.35.png)
 
 4. **Type in the password of your wallet and click “confirm”. If you don't have a password, skip this step.**
 
