@@ -33,7 +33,7 @@ If you have any further questions on how to convert your lumens into your local 
 
 ### Funds are under your control
 
-No. Your secret ID/private key is never disclosed to anyone, not even to us. Without the private key, no one will ever be able to control the funds in your wallet. 
+Your secret ID/private key is never disclosed to anyone, not even to us. Without the private key, no one will ever be able to control the funds in your wallet. 
 
 At solarwallet.io we highly value customer’s privacy and freedom, and we are committed to using decentralized security architecture to keep your funds safe. 
 
