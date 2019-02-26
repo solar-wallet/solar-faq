@@ -38,7 +38,7 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 1. **Click the “three-dots” button on the top right corner of the window to open the Wallet menu. Choose “Export Secret Key”.**
 2. **Type in your password in the blank and click the button “Click to Reveal Your Secret Key”. If you do not have a password, simply click the button “Click to Reveal Your Secret Key”.**
 
-![null](/images/screen-shot-2019-02-19-at-08.35.16.png)
+![null](/images/export-secret-key.png)
 
 4. **Your secret key is revealed in plaintext. Please keep this text safe as this unencrypted secret key gives anybody access to your funds.**
 
