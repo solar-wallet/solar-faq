@@ -13,7 +13,7 @@ title: Installation
 
 1. **If you are installing Solar Wallet for macOS, you might come across the following warning message:**
 
-![](/images/screen-shot-2019-02-26-at-14.00.00.png)
+![null](/images/screen-shot-2019-02-26-at-14.00.00.png)
 
 2. **In order to authorize the installation, hover the mouse on the top left corner of your screen. Click the "Apple" logo and choose "System Preferences".**
 
@@ -39,14 +39,14 @@ title: Installation
 
 1. **After clicking "Download for Windows", run the programme to start the installation.**
 
-![null](/images/a.png)
+![null](/images/run.png)
 
 2. **In a few seconds, a warning message from Windows Defender SmartScreen might appear. Click "More Info" to proceed.**
 
-![null](/images/b.png)
+![null](/images/more-info.png)
 
 3. **After clicking "More info", the button "Run anyway" will appear on the bottom right corner of the window. Click it.**
 
-![null](/images/c.png)
+![null](/images/cc.png)
 
 4. **Solar will then be started. Check both boxes on the left. And then click "CONFIRM" to run Solar Wallet.**
