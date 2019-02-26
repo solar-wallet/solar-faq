@@ -105,6 +105,8 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 1. Under construction
 
 ## Asset Management
+To learn about assets, click the following link:
+https://www.stellar.org/developers/guides/concepts/assets.html
 
 ### Add EURT/USD/CNY
 
@@ -136,6 +138,9 @@ You are now ready to trade the asset which you have trusted.
 1. Under construction
 
 ## Testnet
+
+To learn about Stellar Testnet, click the following link:\
+https://www.stellar.org/developers/guides/concepts/test-net.html
 
 ### Enable Testnet features
 
