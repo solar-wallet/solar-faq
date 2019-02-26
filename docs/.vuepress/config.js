@@ -5,6 +5,7 @@ module.exports = {
   description: 'Guide for Solar wallet, the easiest account management for Stellar',
   logo: './images/solar-wallet-logo.svg',
   themeConfig: {
-    sidebar: getChildren('./docs/guide/') 
+    sidebar: getChildren('./docs/guide/'),
+    sidebarDepth: 2
   }
 }
