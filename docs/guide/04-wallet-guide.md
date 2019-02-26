@@ -22,6 +22,13 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 
 ![null](/images/receive.png)
 
+### Import an existing account
+
+1. **Click “Add new”.**
+2. **Name your wallet by typing in the field near the “pen icon”. Create a password and repeat it in the blanks (optional, but highly recommended!). Click the switch button near “Import Existing” and type in your secret key in the blank below. Click "IMPORT Account" to confirm it.**
+
+![null](/images/rename-again.png)
+
 ### Export Secret Key
 
 1. **Choose the relevant wallet.**
@@ -33,12 +40,6 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 
 4. **Your secret key is revealed in plaintext. Please keep this text safe as this unencrypted secret key gives anybody access to your funds.**
 
-### Import an existing account
-
-1. **Click “Add new”.**
-2. **Name your wallet by typing in the field near the “pen icon”. Create a password and repeat it in the blanks (optional, but highly recommended!). Click the switch button near “Import Existing” and type in your secret key in the blank below. Click "IMPORT Account" to confirm it.**
-
-![null](/images/rename-again.png)
 
 ### **Remove the password protection (not recommended)**
 
@@ -48,11 +49,7 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 4. **On the bottom left corner of the small window, click the switch next to “Remove password”.**
 5. **Type in your current password and click “REMOVE PASSWORD” to confirm the removal of your password.**
 
-### Rename my wallet
-
-1. **Choose the relevant wallet.**
-2. **Click the “three-dots” button on the top right corner of the window to open the wallet menu. Choose “Rename”.**
-3. **Type in the new name and click “RENAME”.**
+### Account View
 
 ## Payments
 
