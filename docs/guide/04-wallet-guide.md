@@ -17,7 +17,7 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 
 ![null](/images/rename-again.png)
 
-3. **Your wallet is now ready for receiving payments! Click "RECEIVE" to find the payout address/public key of your wallet.**
+3. **Your wallet is now ready for receiving payments! Click "Receive" to find the payout address/public key of your wallet.**
 4. **Click the long code underneath the QR code to copy the payout address/public key of your wallet.**
 
 ![null](/images/blur-2.png)
@@ -25,7 +25,7 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 ### Import an existing account
 
 1. **Click “Add new”.**
-2. **Name your wallet by typing in the field near the “pen icon”. Create a password and repeat it in the blanks (optional, but highly recommended!). Click the switch button near “Import Existing” and type in your secret key in the blank below. Click "IMPORT Account" to confirm it.**
+2. **Name your wallet by typing in the field near the “pen icon”. Create a password and repeat it in the blanks (optional, but highly recommended!). Click the switch button near “Import Existing” and type in your secret key in the blank below. Click "Import Account" to confirm it.**
 
 ![null](/images/rename-again.png)
 
@@ -33,10 +33,10 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 
 1. **Choose the relevant wallet.**
 
-![](/images/screen-shot-2019-02-26-at-13.08.11.png)
+![null](/images/screen-shot-2019-02-26-at-13.08.11.png)
 
 1. **Click the “three-dots” button on the top right corner of the window to open the Wallet menu. Choose “Export Secret Key”.**
-2. **Type in your password in the blank and click the button “CLICK TO REVEAL YOUR SECRET KEY”. If you do not have a password, simply click the button “CLICK TO REVEAL YOUR SECRET KEY”.**
+2. **Type in your password in the blank and click the button “Click to Reveal Your Secret Key”. If you do not have a password, simply click the button “Click to Reveal Your Secret Key”.**
 
 ![null](/images/screen-shot-2019-02-19-at-08.35.16.png)
 
@@ -48,7 +48,7 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 2. **Click the “three-dots” button on the top right corner of the window to open the wallet menu.**
 3. **Choose “Change password”.**
 4. **On the bottom left corner of the small window, click the switch next to “Remove password”.**
-5. **Type in your current password and click “REMOVE PASSWORD” to confirm the removal of your password.**
+5. **Type in your current password and click “Remove Password” to confirm the removal of your password.**
 
 ### Account View
 
@@ -59,7 +59,7 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 ### Receive Payment
 
 1. **Select the relevant wallet.**
-2. **Click “RECEIVE”**
+2. **Click “Receive”**
 
 ![null](/images/screen-shot-2019-02-18-at-10.35.36.png)
 
@@ -94,8 +94,8 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 
 1. **Choose the relevant wallet**
 2. **Click the “three-dots” button on the top right corner of the window to open the wallet menu. Choose "manage signers".**
-3. **Click "ADD CO-SIGNER" on the top right corner of the page.**
-4. **Add the public key of the co-signer and enter the number of required co-signers for every transaction. Click "APPLY CHANGES" to confirm it.**
+3. **Click "Add Co-Signer" on the top right corner of the page.**
+4. **Add the public key of the co-signer and enter the number of required co-signers for every transaction. Click "Apply Changes" to confirm it.**
 
 ![null](/images/blue-3.png)
 
