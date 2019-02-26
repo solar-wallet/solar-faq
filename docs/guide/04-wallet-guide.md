@@ -27,7 +27,7 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 
 1. **Choose the relevant wallet.**
    ![null](/images/choose-an-account.png)
-2. **Click the “three-dots” button on the top right corner of the page to open the Wallet menu. Choose “Export Secret Key”.**
+2. **Click the “three-dots” button on the top right corner of the window to open the Wallet menu. Choose “Export Secret Key”.**
 3. **Type in your password in the blank and click the button “CLICK TO REVEAL YOUR SECRET KEY”. If you do not have a password, simply click the button “CLICK TO REVEAL YOUR SECRET KEY”.**
 
 ![null](/images/screen-shot-2019-02-19-at-08.35.16.png)
@@ -44,7 +44,7 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 ### **Remove the password protection (not recommended)**
 
 1. **Choose the relevant wallet.**
-2. **Click the “three-dots” button on the top right corner of the page to open the wallet menu.**
+2. **Click the “three-dots” button on the top right corner of the window to open the wallet menu.**
 3. **Choose “Change password”.**
 4. **On the bottom left corner of the small window, click the switch next to “Remove password”.**
 5. **Type in your current password and click “REMOVE PASSWORD” to confirm the removal of your password.**
@@ -52,7 +52,7 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 ### Rename my wallet
 
 1. **Choose the relevant wallet.**
-2. **Click the “three-dots” button on the top right corner of the page to open the wallet menu. Choose “Rename”.**
+2. **Click the “three-dots” button on the top right corner of the window to open the wallet menu. Choose “Rename”.**
 3. **Type in the new name and click “RENAME”.**
 
 ## Payments
@@ -99,6 +99,7 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 4. **Add the public key of the co-signer and enter the number of required co-signers for every transaction. Click "APPLY CHANGES" to confirm it.**
    ![null](/images/cosigners.png)
 p.s.  "Required signatures" mean the number of accounts needed to authorize a transaction. 
+
 5. **To remove a co-signer, simply click the "cross" icon next to the public key of the co-signer.**
 
 ### Create Multi-Sig Transaction
@@ -108,7 +109,7 @@ p.s.  "Required signatures" mean the number of accounts needed to authorize a tr
 
 ### Add EURT/USD/CNY
 1. **Choose the relevant wallet.**
-2. **Click the “three-dots” button on the top right corner of the page to open the wallet menu.  Choose “Manage Assets”.**
+2. **Click the “three-dots” button on the top right corner of the window to open the wallet menu.  Choose “Manage Assets”.**
 3. **Choose the asset you would like to trust. If it is not on the list, choose “ADD CUSTOM ASSET” on the top right corner of the page and type in the code and issuer of the asset. Then, choose “trust asset”.**
 
 ![null](/images/screen-shot-2019-02-18-at-11.43.16.png)
