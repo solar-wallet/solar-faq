@@ -20,7 +20,7 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 3. **Your wallet is now ready for receiving payments! Click "RECEIVE" to find the payout address/public key of your wallet.**
 4. **Click the long code underneath the QR code to copy the payout address/public key of your wallet.**
 
-![null](/images/receive.png)
+![null](/images/blur-2.png)
 
 ### Import an existing account
 
@@ -49,6 +49,8 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 5. **Type in your current password and click “REMOVE PASSWORD” to confirm the removal of your password.**
 
 ### Account View
+
+![](/images/with-blurss.png)
 
 ## Payments
 
@@ -92,9 +94,13 @@ P.S. We cannot recover your password! So please make sure you can remember it.
 2. **Click the “three-dots” button on the top right corner of the window to open the wallet menu. Choose "manage signers".**
 3. **Click "ADD CO-SIGNER" on the top right corner of the page.**
 4. **Add the public key of the co-signer and enter the number of required co-signers for every transaction. Click "APPLY CHANGES" to confirm it.**
-      ![null](/images/cosigners.png)
-   p.s.  "Required signatures" mean the number of accounts needed to authorize a transaction. 
-5. **To remove a co-signer, simply click the "cross" icon next to the public key of the co-signer.**
+
+![](/images/blue-3.png)
+
+\
+p.s.  "Required signatures" mean the number of accounts needed to authorize a transaction. 
+
+1. **To remove a co-signer, simply click the "cross" icon next to the public key of the co-signer.**
 
 ### Create Multi-Sig Transaction
 
