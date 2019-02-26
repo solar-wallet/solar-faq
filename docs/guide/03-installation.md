@@ -21,7 +21,7 @@ title: Installation
 
 2. **In "System Preferences", choose "Security & Privacy"**
 
-![null](/images/5.png)
+![null](/images/new-square.png)
 
 4. **In "Security & Privacy", choose "Open Anyway".**
 
