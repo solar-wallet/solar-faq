@@ -43,10 +43,10 @@ title: Installation
 
 2. In a few seconds, a warning message from Windows Defender SmartScreen might appear. Click "More Info" to proceed.
 
-![null](/images/more-info.png)
+![null]()
 
 3. After clicking "More info", the button "Run anyway" will appear on the bottom right corner of the window. Click it.
 
-![null](/images/cc.png)
+![null](/images/uno.png)
 
 4. Solar will then be started. Check both boxes on the left. And then click "CONFIRM" to run Solar Wallet.
