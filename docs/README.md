@@ -1,4 +1,6 @@
 ---
 home: false
 ---
-What's going on here?
+# Solar Wallet Guide
+
+![Solar Wallet splash screen](/images/solar-wallet.png)
