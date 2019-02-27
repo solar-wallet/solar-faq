@@ -17,7 +17,7 @@ title: Installation
 
 2. In order to authorize the installation, hover the mouse on the top left corner of your screen. Click the "Apple" logo and choose "System Preferences".
 
-![null](/images/system-preference.png)
+![null](/images/orange-dot.png)
 
 2. In "System Preferences", choose "Security & Privacy"
 
