@@ -35,7 +35,7 @@ We cannot recover your password! So please make sure you can remember it.
 ![null](/images/screen-shot-2019-02-26-at-13.08.11.png)
 
 1. Select the “three-dots” button on the top right corner of the window to open the account menu. Select “Export Secret Key”.
-2. Type in your password in the blank and click the button “Click to Reveal Your Secret Key”. If you do not have a password, simply click the button “Click to Reveal Your Secret Key”.
+2. Type in your password in the blank and select the button “Click to Reveal Your Secret Key”. If you do not have a password, simply select the button “Click to Reveal Your Secret Key”.
 
 ![null](/images/mejor.png)
 
@@ -119,7 +119,7 @@ To learn about assets, go to the [Stellar section](/guide/02-stellar-guide.html#
 
 ![null](/images/screen-shot-2019-02-26-at-13.05.35.png)
 
-4. Type in the password of your account and click “confirm”. If you don't have a password, skip this step.
+4. Type in the password of your account and select “confirm”. If you don't have a password, skip this step.
 
 You are now ready to trade the asset which you have trusted.
 
@@ -128,7 +128,7 @@ You are now ready to trade the asset which you have trusted.
 1. Go to the relevant account.
 2. Settings > "Manage Assets".
 3. Select "Add Custom Asset" on the top right corner of the window.
-4. Put in the code, issuer (issuing account public key) and limit (maximum balance to hold). Click "Trust Asset" to confirm.
+4. Put in the code, issuer (issuing account public key) and limit (maximum balance to hold). Select "Trust Asset" to confirm.
 
 ![null](/images/screen-shot-2019-02-26-at-09.37.19.png)
 
