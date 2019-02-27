@@ -7,9 +7,9 @@ title: Solar Wallet Guide
 
 ### Create Stellar Account
 
-1. Choose "Add new".
+1. Click "Add new".
 
-![null](/images/screen-shot-2019-02-18-at-12.32.48.png)
+![null](/images/choose-an-account.png)
 
 2. Click on the field near the "pen" icon and type in the name you want for your wallet. Create a password and repeat it in the blanks (optional, but highly recommended). Click "Create Account" to confirm it.
 
@@ -17,13 +17,14 @@ title: Solar Wallet Guide
 We cannot recover your password! So please make sure you can remember it.
 :::
 
-
 ![null](/images/rename-again.png)
+
+3. Your wallet is now ready for receiving payments! Click "Receive" to find the payout address/public key of your wallet.
 
 ### Import Account
 
 1. Click “Add new”.
-2. Name your wallet by typing in the field near the “pen icon”. Create a password and repeat it in the blanks (optional, but highly recommended!). Click the switch button near “Import Existing” and type in your secret key in the blank below. Click "Import Account" to confirm it.
+2. Name your wallet by typing in the field near the “pen icon”. Create a password and repeat it in the blanks (optional, but highly recommended!). Click the toggle switch button near “Import Existing” and type in your secret key in the blank below. Click "Import Account" to confirm it.
 
 ![null](/images/rename-again.png)
 
@@ -40,12 +41,12 @@ We cannot recover your password! So please make sure you can remember it.
 
 4. Your secret key is revealed in plaintext. Please keep this text safe as this unencrypted secret key gives anybody access to your funds.
 
-### Remove the password protection (not recommended)
+### Remove password (not recommended)
 
 1. Choose the relevant wallet.
 2. Click the “three-dots” button on the top right corner of the window to open the wallet menu.
 3. Choose “Change password”.
-4. On the bottom left corner of the small window, click the switch next to “Remove password”.
+4. On the bottom left corner of the small window, click the toggle switch next to “Remove password”.
 5. Type in your current password and click “Remove Password” to confirm the removal of your password.
 
 ### Account View
@@ -85,7 +86,7 @@ Your payment should be carried out instantly.
 ### Enable the multi-signature feature on Solar
 
 1. Run Solar Wallet and go to the main menu. Click the setting button on the top right corner.
-2. Click the switch next to "Enable Multi-Signature Features" to activate the feature.
+2. Click the toggle switch next to "Enable Multi-Signature Features" to activate the feature.
 3. Click the arrow next to "Settings" to go back to the main menu. You are ready to make individual account multi-signature.
 
 ### Make individual account multi-signature
@@ -148,9 +149,9 @@ https://www.stellar.org/developers/guides/concepts/test-net.html
 
 1. Run Solar wallet. Choose the "setting" icon on the top right corner of the window.
 
-![null](/images/screen-shot-2019-02-18-at-12.01.13.png)
+![null](/images/setting-buttons.png)
 
-2. Click the "switch" next to "Show Testnet Accounts" to activate the testnet option.
+2. Click the toggle switch next to "Show Testnet Accounts" to activate the testnet option.
 3. Click the arrow next to "Settings" to go back to the main page.
 4. Now when you're back on the main page, the button "Switch to Testnet" would appear next to the setting button. Click "Switch to Testnet" to go to testnet
 5. Click "Add new" to create the wallet. Follow the normal procedure to create a new wallet/import an existing wallet.
