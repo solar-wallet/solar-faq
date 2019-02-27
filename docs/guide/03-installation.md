@@ -21,15 +21,15 @@ title: Installation
 
 2. In "System Preferences", choose "Security & Privacy"
 
-![null](/images/new-square.png)
+![null](/images/222.png)
 
 4. In "Security & Privacy", choose "Open Anyway".
 
-![null](/images/open-anyway.png)
+![null](/images/aaa.png)
 
 5. A warning message will appear again. Click "Open".
 
-![null](/images/openopen.png)
+![null](/images/ccc.png)
 
 6. Afterward, drag the Solar Wallet icon to the Applications folder. Follow the standard procedure to install Solar.
 
