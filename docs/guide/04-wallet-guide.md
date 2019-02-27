@@ -7,7 +7,7 @@ title: Solar Wallet Guide
 
 ### Create Stellar Account
 
-1. Choose "add new".
+1. Click "Add new".
 
 ![null](/images/choose-an-account.png)
 
