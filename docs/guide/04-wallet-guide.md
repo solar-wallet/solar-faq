@@ -7,11 +7,11 @@ title: Solar Wallet Guide
 
 ### Create Stellar Account
 
-1. Click "Add new".
+1. Select "Add new".
 
 ![null](/images/choose-an-account.png)
 
-2. Click on the field near the "pen" icon and type in the name you want for your account. Create a password and repeat it in the blanks (optional, but highly recommended). Click "Create Account" to confirm it.
+2. Click on the field near the "pen" icon and type in the name you want for your account. Create a password and repeat it in the blanks (optional, but highly recommended). Select "Create Account" to confirm it.
 
 ::: warning
 We cannot recover your password! So please make sure you can remember it.
@@ -19,12 +19,12 @@ We cannot recover your password! So please make sure you can remember it.
 
 ![null](/images/rename-again.png)
 
-3. Your account is now ready for receiving payments! Click "Receive" to find the payout address/public key of your account.
+3. Your account is now ready for receiving payments! Select "Receive" to find the payout address/public key of your account.
 
 ### Import Account
 
-1. Click “Add new”.
-2. Name your account by typing in the field near the “pen icon”. Create a password and repeat it in the blanks (optional, but highly recommended!). Click the toggle switch button near “Import Existing” and type in your secret key in the blank below. Click "Import Account" to confirm it.
+1. Select “Add new”.
+2. Name your account by typing in the field near the “pen icon”. Create a password and repeat it in the blanks (optional, but highly recommended!). Click the toggle switch button near “Import Existing” and type in your secret key in the blank below. Select "Import Account" to confirm it.
 
 ![null](/images/rename-again.png)
 
@@ -34,7 +34,7 @@ We cannot recover your password! So please make sure you can remember it.
 
 ![null](/images/screen-shot-2019-02-26-at-13.08.11.png)
 
-1. Click the “three-dots” button on the top right corner of the window to open the account menu. Choose “Export Secret Key”.
+1. Select the “three-dots” button on the top right corner of the window to open the account menu. Select “Export Secret Key”.
 2. Type in your password in the blank and click the button “Click to Reveal Your Secret Key”. If you do not have a password, simply click the button “Click to Reveal Your Secret Key”.
 
 ![null](/images/mejor.png)
@@ -44,10 +44,10 @@ We cannot recover your password! So please make sure you can remember it.
 ### Remove Password
 
 1. Go to the relevant account.
-2. Click the “three-dots” button on the top right corner of the window to open the account menu.
-3. Choose “Change password”.
+2. Select the “three-dots” button on the top right corner of the window to open the account menu.
+3. Select “Change password”.
 4. On the bottom left corner of the small window, click the toggle switch next to “Remove password”.
-5. Type in your current password and click “Remove Password” to confirm the removal of your password.
+5. Type in your current password and select “Remove Password” to confirm the removal of your password.
 
 ### Account View
 
@@ -58,7 +58,7 @@ We cannot recover your password! So please make sure you can remember it.
 ### Receive Payment
 
 1. Go to the relevant account.
-2. Click “Receive”
+2. Select “Receive”
 
 ![null](/images/screen-shot-2019-02-18-at-10.35.36.png)
 
@@ -69,17 +69,17 @@ We cannot recover your password! So please make sure you can remember it.
 ### Send Payment
 
 1. Go to the relevant account.
-2. Click the send button.
+2. Select the send button.
 
 ![null](/images/screen-shot-2019-02-18-at-10.35.36.png)
 
 3. Fill in the destination address of the recipient
 4. Add the amount and select the asset you want to send. 
-5. Optionally, you can also include a text or an ID for your transaction by choosing “Text” or “ID” respectively under "Memo type" and then fill in the relevant information. Click “SEND” to confirm it.
+5. Optionally, you can also include a text or an ID for your transaction by choosing “Text” or “ID” respectively under "Memo type" and then fill in the relevant information. Click “SEND”.
 
 ![null](/images/screen-shot-2019-02-26-at-13.00.17.png)
 
-4. Fill in your password and click “confirm” to proceed with your payment. If you don’t have a password, simply click “Confirm” to make the payment.
+4. Fill in your password and click “Confirm” to proceed with your payment. If you don’t have a password, simply click “Confirm” to make the payment.
 
 ## Multi-Signature Account
 
@@ -92,8 +92,8 @@ We cannot recover your password! So please make sure you can remember it.
 
 1. Go to the relevant account. 
 2. Settings > "Manage Signers".
-3. Click "Add Co-Signer" on the top right corner of the page.
-4. Add the public key of the co-signer and enter the number of required co-signers for every transaction. Click "Apply Changes" to confirm it.
+3. Select "Add Co-Signer" on the top right corner of the page.
+4. Add the public key of the co-signer and enter the number of required co-signers for every transaction. Select "Apply Changes" to confirm it.
 
 ![null](/images/blue-3.png)
 
@@ -101,7 +101,7 @@ We cannot recover your password! So please make sure you can remember it.
 "Required signatures" mean the number of accounts needed to authorize a transaction. For example, this could be 3/4 for an account that requires 75% approval to make a transaction.
 :::
 
-5. To remove a co-signer, simply click the "cross" icon next to the public key of the co-signer. Only the owner of the mult-sig account can remove/add co-signers.
+5. To remove a co-signer, simply select the "cross" icon next to the public key of the co-signer. Only the owner of the mult-sig account can remove/add co-signers.
 
 ### Create Multi-Sig Transaction
 
@@ -115,7 +115,7 @@ To learn about assets, go to the [Stellar section](/guide/02-stellar-guide.html#
 
 1. Go to the relevant account.
 2. Settings > "Manage Assets".
-3. Choose the asset you would like to trust. Then, choose “trust asset”.
+3. Select the asset you would like to trust. Then, select “trust asset”.
 
 ![null](/images/screen-shot-2019-02-26-at-13.05.35.png)
 
@@ -127,14 +127,14 @@ You are now ready to trade the asset which you have trusted.
 
 1. Go to the relevant account.
 2. Settings > "Manage Assets".
-3. Click "Add Custom Asset" on the top right corner of the window.
+3. Select "Add Custom Asset" on the top right corner of the window.
 4. Put in the code, issuer (issuing account public key) and limit (maximum balance to hold). Click "Trust Asset" to confirm.
 
 ![null](/images/screen-shot-2019-02-26-at-09.37.19.png)
 
 You are now ready to receive/send/trade the asset which you have trusted.
 
-## DEX 
+## DEX
 
 ### Trade view
 
@@ -146,15 +146,15 @@ To learn about assets, go to the [Stellar section](/guide/02-stellar-guide.html#
 
 ### Enable Testnet features
 
-1. Go to main settings (click the “setting” icon on the top right corner)
+1. Go to main settings (select the “setting” icon on the top right corner)
 
 ![null](/images/setting-buttons.png)
 
 2. Click the toggle switch next to "Show Testnet Accounts" to activate the testnet option.
-3. Click the arrow next to "Settings" to go back to the main page.
-4. Now when you're back on the main page, the button "Switch to Testnet" would appear next to the setting button. Click "Switch to Testnet" to go to testnet.
-5. To go back to "mainnet" or to leave testnet, click the "Switch to Mainnet" button next to the setting button.
+3. Select the arrow next to "Settings" to go back to the main page.
+4. Now when you're back on the main page, the button "Switch to Testnet" would appear next to the setting button. Select "Switch to Testnet" to go to testnet.
+5. To go back to "mainnet" or to leave testnet, select the "Switch to Mainnet" button next to the setting button.
 
 ### Friendbot
 
-Friendbot is a tool on the Stellar testnet, which gives you free testnet lumens. Friendly, indeed. 
+Friendbot is a tool on the Stellar testnet, which gives you free testnet lumens. Friendly, indeed.
