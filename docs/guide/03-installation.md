@@ -39,11 +39,11 @@ title: Installation
 
 1. After clicking "Download for Windows", run the programme to start the installation.
 
-![null](/images/run.png)
+![null](/images/run-the-programme.png)
 
 2. In a few seconds, a warning message from Windows Defender SmartScreen might appear. Click "More Info" to proceed.
 
-![null]()
+![null](/images/more-info.png)
 
 3. After clicking "More info", the button "Run anyway" will appear on the bottom right corner of the window. Click it.
 
