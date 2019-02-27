@@ -9,7 +9,7 @@ title: Solar Wallet Guide
 
 1. Choose "add new".
 
-![null](/images/screen-shot-2019-02-18-at-12.32.48.png)
+![null](/images/choose-an-account.png)
 
 2. Click on the field near the "pen" icon and type in the name you want for your wallet. Create a password and repeat it in the blanks (optional, but highly recommended). Click "Create Account" to confirm it.
 
@@ -150,7 +150,7 @@ https://www.stellar.org/developers/guides/concepts/test-net.html
 
 1. Run Solar wallet. Choose the "setting" icon on the top right corner of the window.
 
-![null](/images/screen-shot-2019-02-18-at-12.01.13.png)
+![null](/images/setting-buttons.png)
 
 2. Click the "switch" next to "Show Testnet Accounts" to activate the testnet option.
 3. Click the arrow next to "Settings" to go back to the main page.
