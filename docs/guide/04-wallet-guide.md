@@ -39,7 +39,7 @@ title: Solar Wallet Guide
 
 4. Your secret key is revealed in plaintext. Please keep this text safe as this unencrypted secret key gives anybody access to your funds.
 
-### Remove the password protection (not recommended)
+### Remove password (not recommended)
 
 1. Choose the relevant wallet.
 2. Click the “three-dots” button on the top right corner of the window to open the wallet menu.
