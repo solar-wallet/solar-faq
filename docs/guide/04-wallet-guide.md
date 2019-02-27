@@ -18,9 +18,6 @@ title: Solar Wallet Guide
 ![null](/images/rename-again.png)
 
 3. Your wallet is now ready for receiving payments! Click "Receive" to find the payout address/public key of your wallet.
-4. Click the long code underneath the QR code to copy the payout address/public key of your wallet.
-
-![null](/images/blur-2.png)
 
 ### Import an existing account
 
