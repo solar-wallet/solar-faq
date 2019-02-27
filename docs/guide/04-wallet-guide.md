@@ -22,7 +22,7 @@ title: Solar Wallet Guide
 ### Import an existing account
 
 1. Click “Add new”.
-2. Name your wallet by typing in the field near the “pen icon”. Create a password and repeat it in the blanks (optional, but highly recommended!). Click the switch button near “Import Existing” and type in your secret key in the blank below. Click "Import Account" to confirm it.
+2. Name your wallet by typing in the field near the “pen icon”. Create a password and repeat it in the blanks (optional, but highly recommended!). Click the toggle switch button near “Import Existing” and type in your secret key in the blank below. Click "Import Account" to confirm it.
 
 ![null](/images/rename-again.png)
 
@@ -44,7 +44,7 @@ title: Solar Wallet Guide
 1. Choose the relevant wallet.
 2. Click the “three-dots” button on the top right corner of the window to open the wallet menu.
 3. Choose “Change password”.
-4. On the bottom left corner of the small window, click the switch next to “Remove password”.
+4. On the bottom left corner of the small window, click the toggle switch next to “Remove password”.
 5. Type in your current password and click “Remove Password” to confirm the removal of your password.
 
 ### Account View
@@ -84,7 +84,7 @@ Your payment should be carried out instantly.
 ### Enable the multi-signature feature on Solar
 
 1. Run Solar Wallet and go to the main menu. Click the setting button on the top right corner.
-2. Click the switch next to "Enable Multi-Signature Features" to activate the feature.
+2. Click the toggle switch next to "Enable Multi-Signature Features" to activate the feature.
 3. Click the arrow next to "Settings" to go back to the main menu. You are ready to make individual account multi-signature.
 
 ### Make individual account multi-signature
@@ -149,7 +149,7 @@ https://www.stellar.org/developers/guides/concepts/test-net.html
 
 ![null](/images/setting-buttons.png)
 
-2. Click the "switch" next to "Show Testnet Accounts" to activate the testnet option.
+2. Click the toggle switch next to "Show Testnet Accounts" to activate the testnet option.
 3. Click the arrow next to "Settings" to go back to the main page.
 4. Now when you're back on the main page, the button "Switch to Testnet" would appear next to the setting button. Click "Switch to Testnet" to go to testnet
 5. Click "Add new" to create the wallet. Follow the normal procedure to create a new wallet/import an existing wallet.
