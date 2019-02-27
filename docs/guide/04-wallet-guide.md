@@ -7,22 +7,20 @@ title: Solar Wallet Guide
 
 ### Create Stellar Account
 
-1. Choose "add new".
+1. Choose "Add new".
 
 ![null](/images/screen-shot-2019-02-18-at-12.32.48.png)
 
 2. Click on the field near the "pen" icon and type in the name you want for your wallet. Create a password and repeat it in the blanks (optional, but highly recommended). Click "Create Account" to confirm it.
 
-**Please note: We cannot recover your password! So please make sure you can remember it.**
+::: warning
+We cannot recover your password! So please make sure you can remember it.
+:::
+
 
 ![null](/images/rename-again.png)
 
-3. Your wallet is now ready for receiving payments! Click "Receive" to find the payout address/public key of your wallet.
-4. Click the long code underneath the QR code to copy the payout address/public key of your wallet.
-
-![null](/images/blur-2.png)
-
-### Import an existing account
+### Import Account
 
 1. Click “Add new”.
 2. Name your wallet by typing in the field near the “pen icon”. Create a password and repeat it in the blanks (optional, but highly recommended!). Click the switch button near “Import Existing” and type in your secret key in the blank below. Click "Import Account" to confirm it.
