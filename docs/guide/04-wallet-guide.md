@@ -30,12 +30,11 @@ We cannot recover your password! So please make sure you can remember it.
 
 ### Export Secret Key
 
-1. Go to the relevant account.
+1. Go to the relevant account’s settings (click the “setting” icon on the top right corner on the account overview). 
 
-![null](/images/screen-shot-2019-02-26-at-13.08.11.png)
+2.Select "Export secret key". 
 
-1. Select the “three-dots” button on the top right corner of the window to open the account menu. Select “Export Secret Key”.
-2. Type in your password in the blank and select the button “Click to Reveal Your Secret Key”. If you do not have a password, simply select the button “Click to Reveal Your Secret Key”.
+3. Type in your password in the blank and select the button “Click to Reveal Your Secret Key”. If you do not have a password, simply select the button “Click to Reveal Your Secret Key”.
 
 ![null](/images/mejor.png)
 
@@ -43,11 +42,9 @@ We cannot recover your password! So please make sure you can remember it.
 
 ### Remove Password
 
-1. Go to the relevant account.
-2. Select the “three-dots” button on the top right corner of the window to open the account menu.
-3. Select “Change password”.
-4. On the bottom left corner of the small window, click the toggle switch next to “Remove password”.
-5. Type in your current password and select “Remove Password” to confirm the removal of your password.
+1. Go to the relevant account’s settings (click the “setting” icon on the top right corner on the account overview). Select “Change password”.
+2. On the bottom left corner of the small window, click the toggle switch next to “Remove password”.
+3. Type in your current password and select “Remove Password” to confirm the removal of your password.
 
 ### Account View
 
@@ -85,14 +82,17 @@ We cannot recover your password! So please make sure you can remember it.
 
 ### Enable Multi-Sig Feature
 
-1. Go to the main settings menu.
+1. Go to main settings (click the “setting” icon on the top right corner of the main menu).
 2. Click the toggle switch next to "Enable Multi-Signature Features" to activate.
 
 ### Make Account Multi-Sig
 
-1. Go to the relevant account. 
-2. Settings > "Manage Signers".
+1. Go to the relevant account’s settings (click the “setting” icon on the top right corner on the account overview).  
+
+2. Select "Manage Signers".
+
 3. Select "Add Co-Signer" on the top right corner of the page.
+
 4. Add the public key of the co-signer and enter the number of required co-signers for every transaction. Select "Apply Changes" to confirm it.
 
 ![null](/images/blue-3.png)
@@ -109,12 +109,11 @@ We cannot recover your password! So please make sure you can remember it.
 
 ## Asset Management
 
-To learn about assets, go to the [Stellar section](/guide/02-stellar-guide.html#about-stellar)
+To learn about assets, go to the [Stellar section](https://boring-edison-1091b3.netlify.com/guide/02-stellar-guide.html#about-assets)
 
 ### Add EURT/USD/CNY
-
-1. Go to the relevant account.
-2. Settings > "Manage Assets".
+1. Go to the relevant account’s settings (click the “setting” icon on the top right corner on the account overview). 
+2. Select "Manage Assets". 
 3. Select the asset you would like to trust. Then, select “trust asset”.
 
 ![null](/images/screen-shot-2019-02-26-at-13.05.35.png)
@@ -125,8 +124,8 @@ You are now ready to trade the asset which you have trusted.
 
 ### Add Custom Assets
 
-1. Go to the relevant account.
-2. Settings > "Manage Assets".
+1. Go to the relevant account’s settings (click the “setting” icon on the top right corner on the account overview). 
+2. Select "Manage Assets".
 3. Select "Add Custom Asset" on the top right corner of the window.
 4. Put in the code, issuer (issuing account public key) and limit (maximum balance to hold). Select "Trust Asset" to confirm.
 
@@ -146,7 +145,7 @@ To learn about assets, go to the [Stellar section](/guide/02-stellar-guide.html#
 
 ### Enable Testnet features
 
-1. Go to main settings (select the “setting” icon on the top right corner)
+1. Go to main settings (click the “setting” icon on the top right corner of the main menu).
 
 ![null](/images/setting-buttons.png)
 
