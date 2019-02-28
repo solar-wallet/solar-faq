@@ -40,8 +40,7 @@ The Stellar Decentralized Exchange (DEX) stores the order book on-ledger, settle
 
 ## Multisignature
 
-\
-Signatures are used for authorizing transactions on the Stellar network. Most transactions only require authorization from one signature from an account. There are however situations when transactions require more than one signatures, e.g. when the transaction has operations that affect more than one account. "Multi-signature" refers to a situation in which more than one signatures are required for authorization of a transaction. Click the following link to learn more about multi-signature:\
+Signatures are used for authorizing transactions on the Stellar network. Most transactions only require authorization from one signature from an account. There are however situations when transactions require more than one signatures, e.g. when the transaction has operations that affect more than one account. "Multi-signature" refers to a situation in which more than one signatures are required for authorization of a transaction. Click the following link to learn more about multi-signature:
 <https://www.stellar.org/developers/guides/concepts/multi-sig.html>
 
 ## Nodes, Network, & Ledger
