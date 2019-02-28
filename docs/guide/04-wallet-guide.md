@@ -19,7 +19,7 @@ We cannot recover your password! So please make sure you can remember it.
 
 ![null](/images/rename-again.png)
 
-3. Your account is now ready for receiving payments! Select "Receive" to find the payout address/public key of your account.
+3. Your account is now ready for receiving payments! Select "Receive" to find the public key of your account.
 
 ### Import Account
 
