@@ -15,6 +15,23 @@ The basic currency used on the Stellar network is called "lumens" and is mostly 
 
 You can convert lumens into most currencies in the world through online digital currency exchanges. Find a full list of Stellar exchanges on [CoinMarketCap](https://coinmarketcap.com/currencies/stellar/#markets).
 
+## Minimum Account Balance
+
+There is a minimum balance of lumens for every stellar account. Any transaction that would reduce an account’s balance to less than the minimum will be rejected with an INSUFFICIENT_BALANCE error.
+
+Use the following formula to calculate the minimum account balance for your account:
+
+(2 + # of entries) × 0.5 XLM\
+Examples of entries: trustlines, offers, signers and data entries
+
+Click the following link to read more about minimum account balance:\
+<https://www.stellar.org/developers/guides/concepts/fees.html#minimum-account-balance>
+
+## Stellar Decentralized Exchange (Stellar DEX)
+
+The Stellar Decentralized Exchange (DEX) stores the order book on-ledger, settles transactions on-ledger, and has matchmaking built into the protocol.
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=2L8-lrmzeWk&feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Nodes, Network, & Ledger
 
