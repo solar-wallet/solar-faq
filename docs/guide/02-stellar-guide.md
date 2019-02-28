@@ -28,6 +28,10 @@ Examples of entries: trustlines, offers, signers and data entries
 Click the following link to read more about minimum account balance:\
 <https://www.stellar.org/developers/guides/concepts/fees.html#minimum-account-balance>
 
+## About assets
+The Stellar distributed network can be used to track, hold, and transfer any type of asset: dollars, euros, bitcoin, stocks, gold, and other tokens of value. Any asset on the network can be traded and exchanged with any other. Watch the following video by Luenauts for further information:
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Cf9CdFVse-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Stellar Decentralized Exchange (Stellar DEX)
 
 The Stellar Decentralized Exchange (DEX) stores the order book on-ledger, settles transactions on-ledger, and has matchmaking built into the protocol.
