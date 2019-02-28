@@ -9,7 +9,8 @@ With Stellar, sending money can be as easy as sending an email. The Stellar netw
 
 ## Cryptocurrency
 
-The basic currency used on the Stellar network is called "lumens" and is mostly represented with the following ticker: "XLM".
+The basic currency used on the Stellar network is called "lumens" and is mostly represented with the following ticker: "XLM". Click the following link to learn more about lumens:\
+<https://www.stellar.org/lumens/>
 
 ### Exchanges
 
@@ -32,6 +33,12 @@ Click the following link to read more about minimum account balance:\
 The Stellar Decentralized Exchange (DEX) stores the order book on-ledger, settles transactions on-ledger, and has matchmaking built into the protocol.
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=2L8-lrmzeWk&feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Multisignature
+
+\
+Signatures are used for authorizing transactions on the Stellar network. Most transactions only require authorization from one signature from an account. There are however situations when transactions require more than one signatures, e.g. when the transaction has operations that affect more than one account. "Multi-signature" refers to a situation in which more than one signatures are required for authorization of a transaction. Click the following link to learn more about multi-signature:\
+<https://www.stellar.org/developers/guides/concepts/multi-sig.html>
 
 ## Nodes, Network, & Ledger
 
