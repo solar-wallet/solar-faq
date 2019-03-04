@@ -9,7 +9,7 @@ title: Solar Wallet Guide
 
 1. Select "Add new".
 
-![null](/images/choose-an-account.png)
+![null](/images/screen-shot-2019-03-04-at-11.47.22.png)
 
 2. Click on the field near the "pen" icon and type in the name you want for your account. Create a password and repeat it in the blanks (optional, but highly recommended). Select "Create Account" to confirm it.
 
