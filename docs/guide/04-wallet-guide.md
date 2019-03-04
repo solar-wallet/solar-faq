@@ -86,7 +86,7 @@ We cannot recover your password! So please make sure you can remember it.
 
 ![](/images/settings-button.png)
 
-1. Click the toggle switch next to "Enable Multi-Signature Features" to activate.
+2. Click the toggle switch next to "Enable Multi-Signature Features" to activate.
 
 ### Make Account Multi-Sig
 
