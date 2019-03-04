@@ -48,7 +48,7 @@ We cannot recover your password! So please make sure you can remember it.
 
 ### Account View
 
-![null](/images/with-blurss.png)
+![null](/images/lots-of-instructions.png)
 
 ## Payments
 
@@ -88,11 +88,8 @@ We cannot recover your password! So please make sure you can remember it.
 ### Make Account Multi-Sig
 
 1. Go to the relevant account’s settings (click the “setting” icon on the top right corner on the account overview).  
-
 2. Select "Manage Signers".
-
 3. Select "Add Co-Signer" on the top right corner of the page.
-
 4. Add the public key of the co-signer and enter the number of required co-signers for every transaction. Select "Apply Changes" to confirm it.
 
 ![null](/images/blue-3.png)
@@ -112,6 +109,7 @@ We cannot recover your password! So please make sure you can remember it.
 To learn about assets, go to the [Stellar section](https://boring-edison-1091b3.netlify.com/guide/02-stellar-guide.html#about-assets)
 
 ### Add EURT/USD/CNY
+
 1. Go to the relevant account’s settings (click the “setting” icon on the top right corner on the account overview). 
 2. Select "Manage Assets". 
 3. Select the asset you would like to trust. Then, select “trust asset”.
