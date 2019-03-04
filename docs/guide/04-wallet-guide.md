@@ -48,7 +48,7 @@ We cannot recover your password! So please make sure you can remember it.
 
 ### Account View
 
-![null](/images/lots-of-instructions.png)
+![null](/images/review-picture-again.png)
 
 ## Payments
 
@@ -57,7 +57,7 @@ We cannot recover your password! So please make sure you can remember it.
 1. Go to the relevant account.
 2. Select “Receive”
 
-![null](/images/screen-shot-2019-02-18-at-10.35.36.png)
+![null](/images/receive-button.png)
 
 3. Your public key is written under the QR code. Click it to copy it. Send this public key to the entity/person you would like to receive a payment from. You can also scan the QA code with another Stellar wallet.
 
@@ -84,7 +84,7 @@ We cannot recover your password! So please make sure you can remember it.
 
 1. Go to main settings (click the “setting” icon on the top right corner of the main menu).
 
-![](/images/settings-button.png)
+![null](/images/settings-button.png)
 
 2. Click the toggle switch next to "Enable Multi-Signature Features" to activate.
 
