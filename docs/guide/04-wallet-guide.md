@@ -36,7 +36,7 @@ We cannot recover your password! So please make sure you can remember it.
 
 3. Type in your password in the blank and select the button “Click to Reveal Your Secret Key”. If you do not have a password, simply select the button “Click to Reveal Your Secret Key”.
 
-![null](/images/mejor.png)
+![null](/images/personal-safe-again.png)
 
 4. Your secret key is revealed in plaintext. Please keep this text safe as this unencrypted secret key gives anybody access to your funds.
 
