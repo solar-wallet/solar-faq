@@ -68,7 +68,7 @@ We cannot recover your password! So please make sure you can remember it.
 1. Go to the relevant account.
 2. Select the send button.
 
-![null](/images/screen-shot-2019-02-18-at-10.35.36.png)
+![null](/images/receive-button.png)
 
 3. Fill in the destination address of the recipient
 4. Add the amount and select the asset you want to send. 
@@ -83,7 +83,10 @@ We cannot recover your password! So please make sure you can remember it.
 ### Enable Multi-Sig Feature
 
 1. Go to main settings (click the “setting” icon on the top right corner of the main menu).
-2. Click the toggle switch next to "Enable Multi-Signature Features" to activate.
+
+![](/images/settings-button.png)
+
+1. Click the toggle switch next to "Enable Multi-Signature Features" to activate.
 
 ### Make Account Multi-Sig
 
@@ -144,9 +147,6 @@ To learn about assets, go to the [Stellar section](/guide/02-stellar-guide.html#
 ### Enable Testnet features
 
 1. Go to main settings (click the “setting” icon on the top right corner of the main menu).
-
-![null](/images/setting-buttons.png)
-
 2. Click the toggle switch next to "Show Testnet Accounts" to activate the testnet option.
 3. Select the arrow next to "Settings" to go back to the main page.
 4. Now when you're back on the main page, the button "Switch to Testnet" would appear next to the setting button. Select "Switch to Testnet" to go to testnet.
