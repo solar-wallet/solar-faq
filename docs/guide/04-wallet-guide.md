@@ -106,7 +106,10 @@ We cannot recover your password! So please make sure you can remember it.
 ### Create Multi-Sig Transaction
 
 1. Follow the normal procedure to [send payment](https://docs.solarwallet.io/guide/04-wallet-guide.html#send-payment).
-2. Now the owner of the other account should go to the account and authorize the transaction. If necessary, put in your password before confirming the authorization. 
+2. Now the owner of the other account(s) should go to the account page and look for "Transactions to co-sign". Look for the particular transaction and select "Review". If you have a password, type in password and press enter to authorize the transaction. If not, simply click "Confirm" to authorize the payment. 
+
+![](/images/screen-shot-2019-03-05-at-15.24.05.png)
+
 3. After the authorization, the transaction will be carried out immediately. 
 
 ## Asset Management
