@@ -105,7 +105,9 @@ We cannot recover your password! So please make sure you can remember it.
 
 ### Create Multi-Sig Transaction
 
-1. Under construction
+1. Follow the normal procedure to [send payment](https://docs.solarwallet.io/guide/04-wallet-guide.html#send-payment).
+2. Now the owner of the other account should go to the account and authorize the transaction. If necessary, put in your password before confirming the authorization. 
+3. After the authorization, the transaction will be carried out immediately. 
 
 ## Asset Management
 
@@ -138,12 +140,11 @@ You are now ready to receive/send/trade the asset which you have trusted.
 
 ### Trade view
 
-![](/images/trading-assets.png)
+![null](/images/trading-assets.png)
 
 ### Make a Trade
 
 1. Go to the relevant account. Select "Trade" on the top right corner. 
-
 2. On the Trade view, select the type of assets and the amount of the assets you would like to sell. Then, choose the selling price (regular, fast or super fast). The lower the selling price, the faster your assets would be sold. Next, select the assets you would like to purchase. The amount you would receive according to your selling price would be generated automatically. Finally click "Place Order" to confirm the your exchange order. 
 
 ## Testnet
