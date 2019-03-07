@@ -47,7 +47,7 @@ Signatures are used for authorizing transactions on the Stellar network. Most tr
 
 ## Nodes, Network, & Ledger
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ixerXWJrDr0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sTQuGoBeKto" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Click the following link to take the free online course by Lumenauts to learn more about Stellar:
 
