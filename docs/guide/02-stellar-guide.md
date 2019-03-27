@@ -1,54 +1,55 @@
 ---
 title: Stellar
 ---
-## About Stellar
 
-With Stellar, sending money can be as easy as sending an email. The Stellar network provides a quick and almost free way to send payments between different parties in any assets. The folks over at [Lumenauts](https://www.lumenauts.com/courses/stellar-overview-course) have made some explainer videos, which are a great way to learn more about the Stellar network. 
+Stellar is an open-source, decentralized protocol for sending money. It is maintained by the nonprofit "Stellar Development Foundation". With Stellar, sending money can be as easy as sending an email. The folks over at [Lumenauts](https://www.lumenauts.com/courses/stellar-overview-course) have made some explainer videos, which are a great way to learn more about the Stellar network.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ixerXWJrDr0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Cryptocurrency
+::: tip
+You can earn lumens by watching videos about Stellar over at
+[Coinbase | Earn](https://www.coinbase.com/earn/stellar)
+:::
 
-The basic currency used on the Stellar network is called "lumens" and is mostly represented with the following ticker: "XLM". Click the following link to learn more about lumens:\
-<https://www.stellar.org/lumens/>
+## Lumens
 
-### Exchanges
+The basic currency used on the Stellar network is called "lumens" and is mostly represented with the following ticker: "XLM". Click the following link to learn more about lumens: [stellar.org/lumens](https://www.stellar.org/lumens/).
 
-You can convert lumens into most currencies in the world through online digital currency exchanges. Find a full list of Stellar exchanges on [CoinMarketCap](https://coinmarketcap.com/currencies/stellar/#markets).
+## Keys
+
+Every account on the Stellar network consists of a keypair: a public key and a secret key. 
+
+- **Public key**: the key that is public on the network. Think of this as the "address" of your account. This is the key to share when you want to receive payments. The public key always starts with a `G`. For example:  `GCRRSYF5JBFPXHN5DCG65A4J3MUYE53QMQ4XMXZ3CNKWFJIJJTGMH6MZ` 
+- **Secret key**: the key which gives you access to the account. This can be used to import/export accounts. Don't share this publicly, as anybody with this key can access the account. The public key always starts with a `S`. For example: `SBTEMPAKHZLJWSNGNXQWW2WHUH6PZP5W26OCFCSO554FT7DHXUKA32KK`
+
+## Exchanges
+
+You can convert lumens into most currencies in the world through online cryptocurrency exchanges. Find a list of Stellar exchanges on [CoinMarketCap](https://coinmarketcap.com/currencies/stellar/#markets).
 
 ## Minimum Account Balance
 
-There is a minimum balance of lumens for every stellar account. Any transaction that would reduce an account’s balance to less than the minimum will be rejected with an INSUFFICIENT_BALANCE error.
+A Stellar account must have a minimum balance of lumens for it to be active on the network. Any transaction that would reduce an account’s balance to less than the minimum will not work.
 
-Use the following formula to calculate the minimum account balance for your account:
+Click the following link to read more about minimum account balance: [stellar.org/developers/guides/concepts/fees.html#minimum-account-balance](https://www.stellar.org/developers/guides/concepts/fees.html#minimum-account-balance).
 
-(2 + # of entries) × 0.5 XLM\
-Examples of entries: trustlines, offers, signers and data entries
+## Assets
 
-Click the following link to read more about minimum account balance:\
-<https://www.stellar.org/developers/guides/concepts/fees.html#minimum-account-balance>
-
-## About assets
-
-The Stellar distributed network can be used to track, hold, and transfer any type of asset: dollars, euros, bitcoin, stocks, gold, and other tokens of value. Any asset on the network can be traded and exchanged with any other. Watch the following video by Luenauts for further information:
+Beyond the native asset, lumens, the Stellar network can be also be used to track, hold, and transfer other assets such as dollars, euros, bitcoin, stocks, gold, and other tokens. Anybody can launch an asset on the network and any asset can be traded with any other. Watch the following video by Lumenauts for further information:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cf9CdFVse-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Stellar Decentralized Exchange (Stellar DEX)
+## Decentralized Exchange
 
-The Stellar Decentralized Exchange (DEX) stores the order book on-ledger, settles transactions on-ledger, and has matchmaking built into the protocol.
+The Stellar Decentralized Exchange (DEX) is a the place where Stellar traders can trade assets via the Stellar protocol. The DEX features an orderbook, matchmaking, and transaction settlement right at the protocol level. Watch the following video by Lumenauts for further information:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2L8-lrmzeWk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Multisignature
 
-Signatures are used for authorizing transactions on the Stellar network. Most transactions only require authorization from one signature from an account. There are however situations when transactions require more than one signatures, e.g. when the transaction has operations that affect more than one account. "Multi-signature" refers to a situation in which more than one signatures are required for authorization of a transaction. Click the following link to learn more about multi-signature:
-<https://www.stellar.org/developers/guides/concepts/multi-sig.html>
+Signatures are used for authorizing transactions on the Stellar network. Most transactions only require authorization from one signature from an account.
 
-## Nodes, Network, & Ledger
+"Multi-signature" refers to a situation in which more than one signatures are required for authorization of a transaction. This can be used to secure an account with by requiring a number of people to sign a transaction before it is executed.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sTQuGoBeKto" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Click the following link to learn more about multi-signature:
+[stellar.org/developers/guides/concepts/multi-sig.html](https://www.stellar.org/developers/guides/concepts/multi-sig.html)
 
-Click the following link to take the free online course by Lumenauts to learn more about Stellar:
-
-[Learn everything about Stellar in 30 min for free](https://www.lumenauts.com/courses/stellar-overview-course)

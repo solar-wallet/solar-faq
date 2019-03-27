@@ -25,6 +25,9 @@ module.exports = {
   themeConfig: {
     logo: '/images/solar-wallet-logo.svg',
     sidebar: getChildren('./docs/guide/'),
-    sidebarDepth: 2
+    sidebarDepth: 2,
+    nav: [
+      { text: 'solarwallet.io', link: 'https://solarwallet.io' },
+    ]
   }
 }
