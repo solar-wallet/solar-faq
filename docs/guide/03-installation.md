@@ -35,18 +35,4 @@ title: Installation
 
 ![null](/images/screen-shot-2019-02-26-at-14.08.11.png)
 
-## Windows
-
-1. After clicking "Download for Windows", run the programme to start the installation.
-
-![null](/images/run-the-programme.png)
-
-2. In a few seconds, a warning message from Windows Defender SmartScreen might appear. Click "More Info" to proceed.
-
-![null](/images/more-info.png)
-
-3. After clicking "More info", the button "Run anyway" will appear on the bottom right corner of the window. Click it.
-
-![null](/images/uno.png)
-
-4. Solar will then be started. Check both boxes on the left. And then click "CONFIRM" to run Solar Wallet.
+##
