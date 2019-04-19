@@ -13,7 +13,7 @@ title: Installation
 
 1. If you are installing Solar Wallet for macOS, you may come across the following warning message when you open the downloaded `.dmg` file:
 
-![null](/images/screen-shot-2019-02-26-at-14.00.00.png)
+![null](/images/screen-shot-2019-04-19-at-15.07.38.png)
 
 2. In order to authorize the installation, go to "System Preferences".
 
