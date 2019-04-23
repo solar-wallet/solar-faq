@@ -29,7 +29,7 @@ title: Installation
 
 5. A warning message will appear again. Click "Open".
 
-![null](/images/ccc.png)
+![null](/images/open-yes.png)
 
 6. Afterward, drag the Solar Wallet icon to the Applications folder. Now Solar wallet is ready to be used.
 
