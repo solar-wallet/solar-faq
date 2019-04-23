@@ -35,4 +35,6 @@ title: Installation
 
 ![null](/images/screen-shot-2019-02-26-at-14.08.11.png)
 
-##
+7. Open the Solar Wallet Application. Another warning message might appear. Select "Open" to open Solar Wallet. 
+
+![](/images/open-open-open.png)
