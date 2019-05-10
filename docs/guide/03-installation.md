@@ -6,7 +6,7 @@ title: Installation
 ## Download
 
 1. Go to [solarwallet.io](https://solarwallet.io/). Click "GET WALLET NOW".
-2. Choose the version of the wallet you would like to download (for Window, Mac or Linux).
+2. Choose the version of the wallet you would like to download (for Window, Mac, Linux, iOS or Android).
 3. Depending on which version you are downloading, you have to take some action on your operating system when installing.
 
 ## macOS
@@ -37,4 +37,4 @@ title: Installation
 
 7. Open the Solar Wallet Application. Another warning message might appear. Select "Open" to open Solar Wallet. 
 
-![](/images/open-open-open.png)
+![null](/images/open-open-open.png)
