@@ -3,13 +3,19 @@ title: Installation
 ---
 # Installation
 
-## Download
+## Download (macOS/Window/Linus)
 
 1. Go to [solarwallet.io](https://solarwallet.io/). Click "GET WALLET NOW".
 2. Choose the version of the wallet you would like to download (for Window, Mac, Linux, iOS or Android).
 3. Depending on which version you are downloading, you have to take some action on your operating system when installing.
 
-## macOS
+## Download (iOS/Android)
+
+On an iOS device, search for "Solar Stellar Wallet" on App Store. Download and install it. 
+
+On an Android device, search for "Solar Wallet". Download and install it. 
+
+## Troubleshooting on macOS
 
 1. If you are installing Solar Wallet for macOS, you may come across the following warning message when you open the downloaded `.dmg` file:
 
