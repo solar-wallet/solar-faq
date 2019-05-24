@@ -13,7 +13,7 @@ title: Installation
 
 On an iOS device, search for "Solar Stellar Wallet" on App Store. Download and install it. 
 
-On an Android device, search for "Solar Wallet". Download and install it. 
+On an Android device, search for "Solar Wallet" on Google Play Store. Download and install it. 
 
 ## Troubleshooting on macOS
 
