@@ -7,7 +7,7 @@ To learn about assets, go to the [Stellar section](./02-stellar-guide.html#asset
 
 ## Add EURT/USD/CNY
 
-1. Go to the relevant account’s settings (click the “setting” icon on the top right corner on the account overview). 
+1. Go to the relevant account and go to settings (click the “setting” icon on the top right corner on the account overview).
 2. Select "Manage Assets". 
 3. Select the asset you would like to trust. Then, select “trust asset”.
 
