@@ -28,4 +28,4 @@ title: Payments
 
 ![null](/images/screen-shot-2019-02-26-at-13.00.17.png)
 
-1. A transaction summary will show. If all details are correct, you confirm the transaction.
+7. A transaction summary will show. If all details are correct, you confirm the transaction.
