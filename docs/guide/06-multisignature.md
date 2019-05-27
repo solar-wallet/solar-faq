@@ -15,7 +15,7 @@ title: Multi-Signature Accounts
 
 1. Go to the relevant account and go to settings (click the “setting” icon on the top right corner on the account overview).
 2. Select "Manage Signers".
-3. Select "Add Co-Signer" on the top right corner of the page.
+3. Select "Add Co-Signer" (on desktop devices) or "signers" (on mobile devices) on the top right corner of the page.
 4. Add the public key of the co-signer and enter the number of required co-signers for every transaction.
 5. Select "Apply Changes" to confirm it.
 
