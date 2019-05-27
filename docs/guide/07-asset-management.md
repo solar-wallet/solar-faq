@@ -19,7 +19,7 @@ You are now ready to trade the asset which you have trusted.
 
 ## Add Custom Assets
 
-1. Go to the relevant account’s settings (click the “setting” icon on the top right corner on the account overview). 
+1. Go to the relevant account and go to settings (click the “setting” icon on the top right corner on the account overview).
 2. Select "Manage Assets".
 3. Select "Add Custom Asset" on the top right corner of the window.
 4. Put in the code, issuer (issuing account public key) and limit (maximum balance to hold). Select "Trust Asset" to confirm.
