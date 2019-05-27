@@ -13,7 +13,7 @@ title: Multi-Signature Accounts
 
 ## Make Account Multi-Sig
 
-1. Go to the relevant account’s settings (click the “setting” icon on the top right corner on the account overview).  
+1. Go to the relevant account and go to settings (click the “setting” icon on the top right corner on the account overview).
 2. Select "Manage Signers".
 3. Select "Add Co-Signer" on the top right corner of the page.
 4. Add the public key of the co-signer and enter the number of required co-signers for every transaction.
@@ -34,4 +34,4 @@ title: Multi-Signature Accounts
 
 ![null](/images/screen-shot-2019-03-05-at-15.24.05.png)
 
-1. After the required number of signatures have been made, the transaction will be executed. 
+1. After the required number of signatures have been made, the transaction will be executed.
