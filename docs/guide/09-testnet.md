@@ -10,7 +10,7 @@ Testnet is a version of the Stellar network, which is used for development. The 
 1. Go to main settings (click the “setting” icon on the top right corner of the main menu).
 2. Toggle the switch next to "Show Testnet Accounts" to activate the testnet option.
 3. Select the arrow next to "Settings" to go back to the main page.
-4. Now when you're back on the main page, the button "Switch to Testnet" would appear next to the setting button. Select "Switch to Testnet" to go to testnet.
+4. Now when you're back on the main page, the button "Switch to Testnet" (on a desktop device) or "Testnet" (on a mobile device) would appear next to the setting button. Select "Switch to Testnet" to go to testnet.
 5. To go back to "mainnet" or to leave testnet, select the "Switch to Mainnet" button next to the setting button.
 
 ## Friendbot
