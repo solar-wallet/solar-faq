@@ -3,10 +3,10 @@ title: Installation
 ---
 # Installation
 
-## Download (macOS/Window/Linus)
+## Download (Mac OS, Windows, Linux)
 
 1. Go to [solarwallet.io](https://solarwallet.io/). Click "GET WALLET NOW".
-2. Choose the version of the wallet you would like to download (for Window, Mac, Linux, iOS or Android).
+2. Choose the version of the wallet you would like to download (for Windows, Mac, Linux, iOS or Android).
 3. Depending on which version you are downloading, you might have to take some action on your operating system while installing.
 
 ## Download (iOS/Android)
