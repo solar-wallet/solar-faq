@@ -3,13 +3,13 @@ title: Installation
 ---
 # Installation
 
-## Download (Mac OS, Windows, Linux)
+## Download (macOS, Windows, Linux)
 
 1. Go to [solarwallet.io](https://solarwallet.io/). Click "GET WALLET NOW".
 2. Choose the version of the wallet you would like to download (for Windows, Mac, Linux, iOS or Android).
 3. Depending on which version you are downloading, you might have to take some action on your operating system while installing.
 
-## Download (iOS/Android)
+## Download (iOS, Android)
 
 On an iOS device, search for "Solar Stellar Wallet" on App Store. Download and install it. 
 
