@@ -5,9 +5,9 @@ title: Account Management
 
 ## Create Stellar Account
 
-1. Select "Add new".
+1. Select "Add account".
 
-![null](/images/screen-shot-2019-03-04-at-11.47.22.png)
+![null](/images/screen-shot-2019-09-20-at-16.59.31.png)
 
 2. Click on the field near the "pen" icon and type in the name you want for your account.
 
