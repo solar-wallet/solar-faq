@@ -33,18 +33,18 @@ In order to use an account on the Stellar network, the account must be _activate
 
 ### Export Secret Key
 
-1. Go to the relevant account and go to settings (click the “setting” icon on the top right corner on the account overview). 
+1. Go to the relevant account and go to settings (click the “hamburger menu” icon on the top right corner and choose "Account Settings"). 
 2. Select "Export secret key". 
 3. Type in your password in the blank and select the button “Click to Reveal Your Secret Key”. If you do not have a password, simply select the button “Click to Reveal Your Secret Key”.
 
-![null](/images/personal-safe-again.png)
+![null](/images/screen-shot-2019-09-20-at-17.05.15.png)
 
 4. Your secret key is revealed in plaintext. Please keep this text safe as this unencrypted secret key gives anybody access to your funds.
 
 ### Remove Password
 
-1. Go to the relevant account and go to settings (click the “setting” icon on the top right corner on the account overview). Select “Change password”.
-2. On the bottom left corner of the small window, click the toggle switch next to “Remove password”.
+1. Go to the relevant account and go to settings (click the “hamburger menu” icon on the top right corner and choose "Account Settings"). Select “Change password”.
+2. Click the toggle switch down below next to “Remove password”.
 3. Type in your current password and select “Remove Password” to confirm the removal of your password.
 
 ### Account View
