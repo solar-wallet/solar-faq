@@ -49,4 +49,4 @@ In order to use an account on the Stellar network, the account must be _activate
 
 ### Account View
 
-![null](/images/account-overview-explainer.png)
+![null](/images/account-view.png)
