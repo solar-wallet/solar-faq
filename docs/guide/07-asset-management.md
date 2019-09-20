@@ -7,23 +7,25 @@ To learn about assets, go to the [Stellar section](./02-stellar-guide.html#asset
 
 ## Add EURT/USD/CNY
 
-1. Go to the relevant account and go to settings (click the “setting” icon on the top right corner on the account overview).
-2. Select "Manage Assets". 
-3. Select the asset you would like to trust. Then, select “trust asset”.
+1. Select any assets on your wallet. 
 
-![null](/images/screen-shot-2019-02-26-at-13.05.35.png)
+![null](/images/screen-shot-2019-09-20-at-17.25.24.png)
 
-4. Type in the password of your account and select “confirm”. If you don't have a password, skip this step.
+2. Click “Add Asset To Your Account”.
+
+![null](/images/screen-shot-2019-09-20-at-17.30.06.png)
+
+3. Choose the asset you would like to add.
+4. Click "ADD ASSET", type in your password (if necessary) and click "CONFIRM" to finalize. 
 
 You are now ready to trade the asset which you have trusted.
 
 ## Add Custom Assets
 
-1. Go to the relevant account and go to settings (click the “setting” icon on the top right corner on the account overview).
-2. Select "Manage Assets".
-3. Select "Add Custom Asset" (on desktop device) or "+ CUSTOM" (on a mobile device) on the top right corner of the window.
-4. Put in the code, issuer (issuing account public key) and limit (maximum balance to hold). Select "Trust Asset" (on desktop device) or "+ TRUST" (on a mobile device) to confirm.
+1. Follow step 1 to 2 of "Add EURT/USD/CNY".
+2. Select "Add Custom Asset" (on desktop device) or "+ CUSTOM" (on a mobile device).
+3. Put in the code, issuer (issuing account public key) and limit (maximum balance to hold). Select "Trust Asset" (on desktop device) or "+ TRUST" (on a mobile device) to confirm.
 
-![null](/images/screen-shot-2019-02-26-at-09.37.19.png)
+![null](/images/screen-shot-2019-09-20-at-17.34.39.png)
 
 You are now ready to receive/send/trade the asset which you have trusted.
