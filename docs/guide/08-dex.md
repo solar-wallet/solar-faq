@@ -7,7 +7,7 @@ Through the Solar wallet, it's possible to trade assets on the [DEX](./02-stella
 
 ## Trade view
 
-![null](/images/trading-assets.png)
+![null](/images/trade-view.png)
 
 ## Make a Trade
 
