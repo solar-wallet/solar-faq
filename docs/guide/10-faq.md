@@ -5,7 +5,7 @@ title: Frequently Asked Questions
 
 ## I forgot my password for my wallet. What can I do?
 
-If you have forgotten the password for your wallet, you can re-import your wallet with your secret key. If you have previously already backed up your secret key, you can go to “Account Settings” and choose “Merge or Delete Account”. Next, click “delete’ to confirm it (please double check that you have backed up your secret key before deleting your wallet). 
+If you have forgotten the password for your wallet, you can re-import your wallet with your secret key. If you have previously already backed up your secret key, you can go to “Account Settings” and choose “Merge or Delete Account”. Next, click “delete’ to confirm it (again, please double-check that you have backed up your secret key before deleting your wallet). 
 
 Afterward, just import your account as usual: click “Add account”, choose “import existing” and paste your secret key to the blank. Click “Create account” to confirm it.
 
@@ -13,7 +13,7 @@ Afterward, just import your account as usual: click “Add account”, choose �
 
 Every payment on the Stellar network is irretrievable. If you have sent a payment with a wrong amount or an incorrect memo, it is advisable to contact the receiver directly for a solution. 
 
-If payment is made to an exchange that should only be carried out with a memo, and Solar Wallet has nevertheless carried the transaction without a memo, please report it to us on solutions@solarwallet.io and report it to the receiver directly for a solution. 
+If a payment is made to an exchange that should only be carried out with a memo, and Solar Wallet has nevertheless carried the transaction without a memo, please report it to us on solutions@solarwallet.io and report it to the receiver directly for a solution. 
 
 ## I have made a transaction but the receiver has not received it. What can I do?
 
