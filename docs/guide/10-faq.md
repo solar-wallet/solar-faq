@@ -5,7 +5,7 @@ title: Frequently Asked Questions
 
 ## I forgot my password for my wallet. What can I do?
 
-If you have forgotten the password for your wallet, you can re-import your wallet with your secret key. If you have previously already backed up your secret key, you can go to “Account Settings” and choose “Merge or Delete Account”. Click “delete’ to confirm it (double check that you have backed up your secret key before deleting your wallet!). 
+If you have forgotten the password for your wallet, you can re-import your wallet with your secret key. If you have previously already backed up your secret key, you can go to “Account Settings” and choose “Merge or Delete Account”. Next, click “delete’ to confirm it (please double check that you have backed up your secret key before deleting your wallet). 
 
 Afterward, just import your account as usual: click “Add account”, choose “import existing” and paste your secret key to the blank. Click “Create account” to confirm it.
 
