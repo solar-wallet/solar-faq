@@ -3,25 +3,25 @@ title: Frequently Asked Questions
 ---
 # Frequently Asked Questions
 
-## I forgot my password for my wallet. What can I do?
+## I forgot my wallet password. 
 
-If you have forgotten the password for your wallet, you can re-import your wallet with your secret key. If you have previously already backed up your secret key, you can go to “Account Settings” and choose “Merge or Delete Account”. Next, click “delete’ to confirm it (again, please double-check that you have backed up your secret key before deleting your wallet). 
+If you have forgotten your wallet password, you can re-import your wallet with your secret key. If you have previously already backed up your secret key, you can go to “Account Settings” and choose “Merge or Delete Account”. Next, click “delete’ to confirm it (again, please double-check that you have backed up your secret key before deleting your wallet). 
 
 Afterward, just import your account as usual: click “Add account”, choose “import existing” and paste your secret key to the blank. Click “Create account” to confirm it.
 
-## I accidentally sent an incorrect payment. What can I do?
+## I sent an incorrect payment. 
 
-Every payment on the Stellar network is irretrievable. If you have sent a payment with a wrong amount or an incorrect memo, it is advisable to contact the receiver directly for a solution. 
+Every payment on the Stellar network is irretrievable. If you have sent a payment with a wrong amount or an incorrect memo, or if you have forgotten to include a transaction memo, it is advisable to contact the receiver directly for a solution. 
 
 If a payment is made to an exchange that should only be carried out with a memo, and Solar Wallet has nevertheless carried the transaction without a memo, please report it to us on solutions@solarwallet.io and report it to the receiver directly for a solution. 
 
-## I have made a transaction but the receiver has not received it. What can I do?
+## I have made a transaction but the receiver has not received it. 
 
 While the Solar Wallet app provides a user-friendly wallet, we do not execute the transactions on our system. The underlying Stellar payment network is operated by several different organizations worldwide. Payments made on the Stellar network are not reversible. Only the receiver of your payment can provide you with a refund manually.  
 
 To check if the transaction is carried out on the Stellar network, you can simply type in and check your wallet’s public key or the transaction ID on StellarExpert (https://stellar.expert/explorer/public). If the transaction is recorded the system, it must have been carried out correctly. If the balance on your Solar Wallet doesn’t update, try closing and re-opening the app. 
 
-## I would like to import my old wallet to a new device. How can I do it?
+## I would like to import my old wallet to a new device. 
 
 Install Solar Wallet on your new device. Click “Add account”, choose “import existing” and paste your secret key to the blank. For security reasons, it is advisable to also create a password to protect your account. FInally, click “Create account” to confirm it.
 
