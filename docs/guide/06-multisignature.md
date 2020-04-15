@@ -36,4 +36,4 @@ title: Multi-Signature Accounts
 
 ![null](/images/screen-shot-2019-09-20-at-17.22.10.png)
 
-1. After the required number of signatures have been made, the transaction will be executed.
+After the required number of signatures have been made, the transaction will be executed.
