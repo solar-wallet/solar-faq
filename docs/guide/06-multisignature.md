@@ -13,6 +13,8 @@ title: Multi-Signature Accounts
 
 ## Make Account Multi-Sig
 
+**Before making an account multi-sig, please make sure that both the multi-sig account and signer's account are activated with funds. **
+
 1. Go to the relevant account and go to settings (click the “hamburger menu” icon on the top right corner and choose "Account Settings"). 
 2. Select "Multi-Signature".
 3. Select "Add Co-Signer" (on desktop devices) or "signers" (on mobile devices) on the top right corner of the page.
