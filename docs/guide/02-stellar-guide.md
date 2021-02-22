@@ -20,7 +20,7 @@ The basic currency used on the Stellar network is called "lumens" and is mostly 
 Every account on the Stellar network consists of a keypair: a public key and a secret key. 
 
 - **Public key**: the key that is public on the network. Think of this as the "address" of your account. This is the key to share when you want to receive payments. The public key always starts with a `G`. For example:  `GCRRSYF5JBFPXHN5DCG65A4J3MUYE53QMQ4XMXZ3CNKWFJIJJTGMH6MZ` 
-- **Secret key**: the key which gives you access to the account. This can be used to import/export accounts. Don't share this publicly, as anybody with this key can access the account. The public key always starts with a `S`. For example: `SBTEMPAKHZLJWSNGNXQWW2WHUH6PZP5W26OCFCSO554FT7DHXUKA32KK`
+- **Secret key**: the key which gives you access to the account. This can be used to import/export accounts. Don't share this publicly, as anybody with this key can access the account. The secret key always starts with a `S`. For example: `SBTEMPAKHZLJWSNGNXQWW2WHUH6PZP5W26OCFCSO554FT7DHXUKA32KK`
 
 ## Exchanges
 
