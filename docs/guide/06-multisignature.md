@@ -37,3 +37,25 @@ title: Multi-Signature Accounts
 ![null](/images/screen-shot-2019-09-20-at-17.22.10.png)
 
 After the required number of signatures have been made, the transaction will be executed.
+
+## Multi-signature v1 
+
+### Migrating to v1
+You should be able to continue using your existing multi-signature setup without having to change anything.
+If you want to make use of the new shared account feature, however, you will have to re-import your co-signer accounts.
+An example scenario assuming an existing setup for a shared account with one co-signer:
+1. Create a backup of the secret keys of your existing co-signer account.
+1. Copy the public key of the shared account.
+1. Delete the co-signer account from Solar.
+1. Go to 'Add Account' > 'Import Account' and paste the secret key of your existing co-signer into the respective input field. 
+1. Now click the toggle for 'Co-signs shared account' and paste the public key of the shared account into the new input field.
+1. Finish the account import and you should now see the balances and transactions of the shared account.
+
+### What's new
+### New user interface
+Editing an accounts multi-signature configuration is facilitated by offering three different setup options, i.e. "Single Signature", "Collective signing", and "Backup keys".
+#### Co-sign a shared account
+You can now choose to join a shared account when adding a new account. This way you can see the balances and transactions of the shared accounts. If the shared account also adds your public key as a co-signer you have access to the same features as if you imported its secret key.
+There are two ways to join a shared account: either with an existing keypair or with just the public key of the shared account so that a new account keypair is generated for you.
+#### SEP-0019 compliance
+If available the account data entry `config.multisig.coordinator` is used to determine the multi-sig endpoint of an account. If this entry does not exist a new account data entry will be created pointing to the default multi-sig endpoint used by Solar. For more information see [SEP-0019](https://github.com/stellar/stellar-protocol/blob/master/ecosystem/sep-0019.md).
