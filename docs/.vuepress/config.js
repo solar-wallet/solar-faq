@@ -38,6 +38,7 @@ export default defineUserConfig({
     contributors: false,
     lastUpdated: false,
     colorModeSwitch: true,
+    colorMode: 'light',
   }),
   plugins: [
     registerComponentsPlugin({
