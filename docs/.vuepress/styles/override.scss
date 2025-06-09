@@ -1,0 +1,125 @@
+// SCSS variables (note: VuePress 2 default theme uses CSS variables for theming primarily)
+// $accentColor: #35CEFF; // This was a v1 style variable, less likely to be used now.
+// $textColor: #4A4A4A;
+// $borderColor: #eaecef;
+// $codeBgColor: #282c34;
+
+.theme-container.home-page {
+  .hero img {
+    width: 40%;
+    // background: red; // This was in the original, commenting out as it might be a debug style
+  }
+}
+
+// Override theme's default brand color, which influences many elements.
+:root {
+  --c-brand: rgb(53, 206, 255) !important;
+  --vp-c-brand: rgb(53, 206, 255) !important; 
+  --vp-c-brand-1: rgb(53, 206, 255) !important;
+  --vp-sidebar-link-active-color: rgb(53, 206, 255) !important;
+  --vp-c-text-link: rgb(53, 206, 255) !important; 
+}
+
+// --- Content Area Styles ---
+
+// General content link color
+.vp-page a,
+.vp-doc a,
+.theme-default-content a {
+  color: var(--vp-c-text-link) !important; 
+}
+.vp-page a:hover,
+.vp-doc a:hover,
+.theme-default-content a:hover {
+  color: var(--vp-c-text-link) !important; 
+  text-decoration: underline;
+}
+
+// Headline anchor link color
+.vp-page h1 a.header-anchor,
+.vp-page h2 a.header-anchor,
+.vp-page h3 a.header-anchor,
+.vp-page h4 a.header-anchor,
+.vp-page h5 a.header-anchor,
+.vp-page h6 a.header-anchor {
+  color: var(--vp-c-text-1, #2c3e50) !important;
+  text-decoration: none !important;
+}
+
+// Bold text styling
+.vp-page strong,
+.vp-page b,
+.theme-default-content strong,
+.theme-default-content b {
+  font-weight: bold !important;
+}
+
+// --- Sidebar Link Colors --- 
+
+// Default (non-active) links
+.vp-sidebar a.vp-sidebar-item:not(.active):not(.route-link-active) {
+  color: var(--vp-c-text-1, #2c3e50) !important; 
+  border-left-color: transparent !important; 
+}
+
+// Hover over default (non-active) links
+.vp-sidebar a.vp-sidebar-item:not(.active):not(.route-link-active):hover {
+  color: var(--vp-c-brand) !important;
+}
+
+// Active links
+.vp-sidebar a.vp-sidebar-item.active,
+.vp-sidebar a.vp-sidebar-item.route-link-active {
+  color: var(--vp-c-brand) !important;
+  border-left-color: var(--vp-c-brand) !important; 
+  border-right-color: transparent !important; 
+  background-color: transparent !important; 
+  font-weight: bold !important;
+}
+
+// Hover over active links
+.vp-sidebar a.vp-sidebar-item.active:hover,
+.vp-sidebar a.vp-sidebar-item.route-link-active:hover {
+  color: var(--vp-c-brand) !important; 
+}
+
+// Fallback for .sidebar-item-text within active links
+.vp-sidebar .vp-sidebar-items > li > a.vp-sidebar-item.route-link-active.active .sidebar-item-text,
+.vp-sidebar .vp-sidebar-items > li > a.vp-sidebar-item.vp-sidebar-heading.route-link-active.active .sidebar-item-text,
+.vp-sidebar .vp-sidebar-children > li > a.vp-sidebar-item.route-link-active.active .sidebar-item-text {
+  color: var(--vp-c-brand) !important;
+}
+
+// Specific and forceful override for active sidebar links based on provided HTML
+.vp-sidebar-items .vp-sidebar-item.active, // Targets the <a> tag with both classes
+.vp-sidebar-items .vp-sidebar-item.route-link-active { // Also targets <a> with route-link-active
+  color: var(--vp-c-brand) !important;
+  border-right-color: transparent !important; // Often themes have a right border for active items
+  border-left-color: var(--vp-c-brand) !important; // Or a left border
+}
+
+// If the text is within a nested span (e.g., .sidebar-item-text), ensure that's colored too.
+// Based on your HTML, the text is directly in the <a>, so this might be redundant but safe.
+.vp-sidebar-items .vp-sidebar-item.active .sidebar-item-text, 
+.vp-sidebar-items .vp-sidebar-item.route-link-active .sidebar-item-text {
+  color: var(--vp-c-brand) !important;
+}
+
+// For nested children links that might be active
+.vp-sidebar-children .vp-sidebar-item.active,
+.vp-sidebar-children .vp-sidebar-item.route-link-active {
+  color: var(--vp-c-brand) !important;
+}
+.vp-sidebar-children .vp-sidebar-item.active .sidebar-item-text, 
+.vp-sidebar-children .vp-sidebar-item.route-link-active .sidebar-item-text {
+  color: var(--vp-c-brand) !important;
+}
+
+// --- General Content Styles ---
+// Ensure <strong> and <b> tags appear bold within the page content.
+.vp-page strong,
+.vp-page b,
+.theme-default-content strong,
+.theme-default-content b {
+  font-weight: bold !important;
+} 

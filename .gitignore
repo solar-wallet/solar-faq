@@ -2,3 +2,8 @@
 .vscode
 node_modules
 dist
+
+# VuePress directories
+docs/.vuepress/.temp
+docs/.vuepress/.cache
+docs/.vuepress/dist
