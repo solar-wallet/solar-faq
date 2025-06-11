@@ -15,7 +15,7 @@ Solar is a free and open source wallet app for Stellar. It has the explicit goal
 * Multi-signature accounts and transactions
 * Asset/token management
 * Decentralized Exchange (DEX) integration (trade interface)
-* Non-custodial key storage (your secret key is stored on your device only)
+* Self-custodial key storage (your secret key is stored on your device only)
 * Testnet support
 
 **Available for**
@@ -32,7 +32,7 @@ The wallet is 100% free (and the core product will remain so), but in future we 
 
 ## Privacy and Security
 
-### Non-Custodial
+### Self-Custodial
 
 Solar is a self-custodial wallet. That means your secret key is never disclosed to anyone. This way we help you keep the secret key safe, so no one except you will ever be able to control the funds in your wallet.
 
