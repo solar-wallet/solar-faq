@@ -4,7 +4,7 @@ title: Stellar
 
 Stellar is an open-source, decentralized protocol for sending money. It is maintained by the nonprofit "Stellar Development Foundation". With Stellar, sending money can be as easy as sending an email. The folks over at [Lumenauts](https://www.lumenauts.com/courses/stellar-overview-course) have made some explainer videos, which are a great way to learn more about the Stellar network.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ixerXWJrDr0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lNcil-1GmCc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ::: tip
 You can earn lumens by watching videos about Stellar over at
@@ -36,13 +36,13 @@ Click the following link to read more about minimum account balance: [stellar.or
 
 Beyond the native asset, lumens, the Stellar network can be also be used to track, hold, and transfer other assets such as dollars, euros, bitcoin, stocks, gold, and other tokens. Anybody can launch an asset on the network and any asset can be traded with any other. Watch the following video by Lumenauts for further information:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Cf9CdFVse-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9iN9XT1rHHA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Decentralized Exchange
 
 The Stellar Decentralized Exchange (DEX) is a the place where Stellar traders can trade assets via the Stellar protocol. The DEX features an orderbook, matchmaking, and transaction settlement right at the protocol level. Watch the following video by Lumenauts for further information:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2L8-lrmzeWk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YFca255hXj8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Multisignature
 
