@@ -6,6 +6,7 @@ import { searchPlugin } from '@vuepress/plugin-search';
 import getChildren from './sidebar.js';
 
 export default defineUserConfig({
+  dest: 'dist',
   title: 'Solar Wallet Guide',
   description: 'Guide for Solar wallet, easy account management for Stellar',
   head: [

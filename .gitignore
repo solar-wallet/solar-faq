@@ -1,9 +1,8 @@
 .DS_Store
 .vscode
 node_modules
-dist
+/dist
 
 # VuePress directories
 docs/.vuepress/.temp
 docs/.vuepress/.cache
-docs/.vuepress/dist
